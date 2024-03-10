@@ -1,0 +1,2931 @@
+{
+  "name": "服务器",
+  "author": "yealqp",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://gitee.com/yealqp/server/raw/master",
+  "files": [
+    {
+      "path": "config/adchimneys/Emitters/betterfurnacesreforged$diamond_furnace.cfg",
+      "hash": "1c53f7646ef92f99fa46ceaf75586222f47301c0"
+    },
+    {
+      "path": "config/adchimneys/Emitters/betterfurnacesreforged$extreme_forge.cfg",
+      "hash": "15a3e9076e06465db45c3111c6de67ec33f93718"
+    },
+    {
+      "path": "config/adchimneys/Emitters/betterfurnacesreforged$extreme_furnace.cfg",
+      "hash": "a2da2bb371faf8af02b320eacd5c432f2d658250"
+    },
+    {
+      "path": "config/adchimneys/Emitters/betterfurnacesreforged$gold_furnace.cfg",
+      "hash": "798eeabd7ee640dd087d1ae0ba539d875c687450"
+    },
+    {
+      "path": "config/adchimneys/Emitters/betterfurnacesreforged$iron_furnace.cfg",
+      "hash": "584aad8d925ee994be1f4fe3f6d7e8c9a5a0f878"
+    },
+    {
+      "path": "config/adchimneys/Emitters/betterfurnacesreforged$netherhot_furnace.cfg",
+      "hash": "c39eca95b3c6b931ff76fe2afe7e4250449eb61d"
+    },
+    {
+      "path": "config/adchimneys/Emitters/brickfurnace$brick_blast_furnace.cfg",
+      "hash": "f6c6c2df18fda48ffce66755e843b713c96500ce"
+    },
+    {
+      "path": "config/adchimneys/Emitters/brickfurnace$brick_furnace.cfg",
+      "hash": "5454efd01bc996282686ee30fdec237c61615d3e"
+    },
+    {
+      "path": "config/adchimneys/Emitters/brickfurnace$brick_smoker.cfg",
+      "hash": "81125d10f712c1ed4e83dd964cf8289303d3aa7c"
+    },
+    {
+      "path": "config/adchimneys/Emitters/byg$boric_campfire.cfg",
+      "hash": "2df3cd793d49a4fbd4469d5bdb0ba4b92c210dbb"
+    },
+    {
+      "path": "config/adchimneys/Emitters/byg$boric_campfire_signal.cfg",
+      "hash": "295578ad0263edb706f653d386dd36a0fd09e36c"
+    },
+    {
+      "path": "config/adchimneys/Emitters/byg$cryptic_campfire.cfg",
+      "hash": "1a5e995fcb96d19a626efe4c4203dddf4c5a24dd"
+    },
+    {
+      "path": "config/adchimneys/Emitters/byg$cryptic_campfire_signal.cfg",
+      "hash": "87ff51b32c1b170e3bc34084245d0b737a074eab"
+    },
+    {
+      "path": "config/adchimneys/Emitters/car$blast_furnace.cfg",
+      "hash": "f60c66434b77f569f23ff96e6e97dece4dd2ff5b"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ceramics$kiln.cfg",
+      "hash": "4f0e87c9fa38431efd50c258a91361847ef9ad0d"
+    },
+    {
+      "path": "config/adchimneys/Emitters/charcoal_pit$blast_furnace.cfg",
+      "hash": "b373da6b54686f87a5124f8c0c9470539e4ae085"
+    },
+    {
+      "path": "config/adchimneys/Emitters/charcoal_pit$bloomeryy.cfg",
+      "hash": "8847969fa131f8f615f24dc86e58886d09c24a8f"
+    },
+    {
+      "path": "config/adchimneys/Emitters/charcoal_pit$distillery.cfg",
+      "hash": "3045cbf644d5f62d5f84b4fa81bcf4e5604aef8d"
+    },
+    {
+      "path": "config/adchimneys/Emitters/charcoal_pit$steam_press.cfg",
+      "hash": "0f5453450fa983d19ece6409a5539ed884d3f437"
+    },
+    {
+      "path": "config/adchimneys/Emitters/clayworks$kiln.cfg",
+      "hash": "91c3376c67a91097e906108628d870ce1ef0e650"
+    },
+    {
+      "path": "config/adchimneys/Emitters/cookingforblockheads$oven.cfg",
+      "hash": "f3a33c2bda918738dc69cd3518813949da200002"
+    },
+    {
+      "path": "config/adchimneys/Emitters/create$blaze_burner.cfg",
+      "hash": "f71fb71402037e2c8ab2e617557f7e6cd997c0b6"
+    },
+    {
+      "path": "config/adchimneys/Emitters/create$lit_blaze_burner.cfg",
+      "hash": "2a0488d1e0244580b2f5b91223b4cc867fb91755"
+    },
+    {
+      "path": "config/adchimneys/Emitters/createdieselgenerators$diesel_engine.cfg",
+      "hash": "6a945f3f4061cf4414b804e993dcd73801121dd9"
+    },
+    {
+      "path": "config/adchimneys/Emitters/createdieselgenerators$diesel_engine_silenced.cfg",
+      "hash": "93394fc5d8e45f6afeb33756f7ad57943de900e4"
+    },
+    {
+      "path": "config/adchimneys/Emitters/createdieselgenerators$large_diesel_engine.cfg",
+      "hash": "83b4198eba1085378b850f9a9c6dbbb77e65eeec"
+    },
+    {
+      "path": "config/adchimneys/Emitters/createdieselgenerators$large_diesel_engine_silenced.cfg",
+      "hash": "fb5433f26ff073294b77c6d5780fe5dfb5da552f"
+    },
+    {
+      "path": "config/adchimneys/Emitters/crossroads$firebox.cfg",
+      "hash": "25f52ab96eed70d507a8d07d2cb85d1bb3e13a81"
+    },
+    {
+      "path": "config/adchimneys/Emitters/divinerpg$coalstone_furnace.cfg",
+      "hash": "b3a8a9f63f49cdabad23dc2eba83ce54cd1c55cc"
+    },
+    {
+      "path": "config/adchimneys/Emitters/divinerpg$demon_furnace.cfg",
+      "hash": "8586916a557f0cda562be3efc57a68d7331f1d35"
+    },
+    {
+      "path": "config/adchimneys/Emitters/divinerpg$greenlight_furnace.cfg",
+      "hash": "235b00d672e234f98723765a247f99ba4ce86eaf"
+    },
+    {
+      "path": "config/adchimneys/Emitters/divinerpg$molten_furnace.cfg",
+      "hash": "2de42cc52e41ed4dc55a78f5a46f7ef8f178c9d6"
+    },
+    {
+      "path": "config/adchimneys/Emitters/divinerpg$moonlight_furnace.cfg",
+      "hash": "4dda8174b966389d1d2b4d98a1c3b40c39d045bd"
+    },
+    {
+      "path": "config/adchimneys/Emitters/divinerpg$oceanfire_furnace.cfg",
+      "hash": "37ee5834bcb8d499cf100ae2034f781e16c35ed8"
+    },
+    {
+      "path": "config/adchimneys/Emitters/divinerpg$whitefire_furnace.cfg",
+      "hash": "ba6ea96312957b37cb10a98491aea5ec0bafed2d"
+    },
+    {
+      "path": "config/adchimneys/Emitters/environmental$kiln.cfg",
+      "hash": "01e2e3e7869405b458cf3ed4864674029328d9e1"
+    },
+    {
+      "path": "config/adchimneys/Emitters/furnacemk2$furnacemk2.cfg",
+      "hash": "5959b8381b9cb6af73366a1190581c8e1b1729d2"
+    },
+    {
+      "path": "config/adchimneys/Emitters/handcrafted$oven.cfg",
+      "hash": "9762b79361f9b1cb6bd39b2aea72ba8ff9f6b126"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ic2$fuel_boiler.cfg",
+      "hash": "b680dd6dafa0895e82580a993703096bf4c8894e"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ic2$generator.cfg",
+      "hash": "00f671e7cf5ca9db721fa8d3c46b3656248fa253"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ic2$iron_furnace.cfg",
+      "hash": "9c45e13f77b66d720e73e155690def07f46d3a21"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ic2$liquid_generator.cfg",
+      "hash": "a5f0882e3402e5602241cedbc98739434ca43233"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ic2$slag_generator.cfg",
+      "hash": "e87092c1bdfc9c639290adf793a1f769f4347d9c"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ic2$stone_canner.cfg",
+      "hash": "003361691e14c3ee66b6030c9791e56caa232759"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ic2$stone_macerator.cfg",
+      "hash": "94abacc8af4b1d2da952402c041c056b5a0fa365"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ic2$wood_gassifier.cfg",
+      "hash": "75a63a62845ea623126df7b58cca8bb62c635728"
+    },
+    {
+      "path": "config/adchimneys/Emitters/immersiveengineering$advanced_blast_furnace.cfg",
+      "hash": "f9a6c18781a80488be9f4c0811bc957b38f834b3"
+    },
+    {
+      "path": "config/adchimneys/Emitters/immersiveengineering$alloy_smelter.cfg",
+      "hash": "6c4f90779024e2f9d01fd1124682d8204a95e291"
+    },
+    {
+      "path": "config/adchimneys/Emitters/immersiveengineering$blast_furnace.cfg",
+      "hash": "a5ffdcc6100b5571ecc734e30b3739c6365c8884"
+    },
+    {
+      "path": "config/adchimneys/Emitters/immersiveengineering$coke_oven.cfg",
+      "hash": "6aa09a1714a5e86911f4206796f2391d8bec2ee3"
+    },
+    {
+      "path": "config/adchimneys/Emitters/immersiveengineering$diesel_generator.cfg",
+      "hash": "8e154310990672c94cb93ea2e339df861eb9a9d6"
+    },
+    {
+      "path": "config/adchimneys/Emitters/industrialforegoing$biofuel_generator.cfg",
+      "hash": "ea1e415123091e3770b26de57b9cb11078c042e4"
+    },
+    {
+      "path": "config/adchimneys/Emitters/industrialforegoing$pitiful_generator.cfg",
+      "hash": "fe5fbb9c10e3515d4557788620d3779755a4b399"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$copper_furnace.cfg",
+      "hash": "5e1d4a47ec6795209b6665a14505e4e186dc437a"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$crystal_furnace.cfg",
+      "hash": "563464a21962a703992d47fe53e48ce68f7d49a8"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$diamond_furnace.cfg",
+      "hash": "282661f6672e8204c4f1311b935519aa71f98114"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$emerald_furnace.cfg",
+      "hash": "743bd607ab23b68526c588a188d40b8314504c1f"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$gold_furnace.cfg",
+      "hash": "7da91c00b66448b85934ab04cb7f1c56125f9b88"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$iron_furnace.cfg",
+      "hash": "ef5130f117e465a19b26fe2fc50c27ae08cacd04"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$million_furnace.cfg",
+      "hash": "003a3aba8ac7bc3cebfe1faf2f76c4cfd6b7e559"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$netherite_furnace.cfg",
+      "hash": "24b9f6b36410d72bd6d45474d22b8bd22efe874f"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$obsidian_furnace.cfg",
+      "hash": "044456eb59473da3e4c6c755a263d7589e510fa5"
+    },
+    {
+      "path": "config/adchimneys/Emitters/ironfurnaces$silver_furnace.cfg",
+      "hash": "2510f205436fdda3820a983d82733c1e1d917e36"
+    },
+    {
+      "path": "config/adchimneys/Emitters/jumbofurnace$jumbo_furnace.cfg",
+      "hash": "21fe21e3ce8384e73569702bf2abb627a9b248de"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mekanism$fuelwood_heater.cfg",
+      "hash": "2829de63e10fcacb848a91b47b45f4fff7df9b06"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mekanismgenerators$bio_generator.cfg",
+      "hash": "9bd389cc8f0d8e9f788c458417e55eafcd865635"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mekanismgenerators$gas_burning_generator.cfg",
+      "hash": "2d01dbc09c7977053a622936652e566db5dd3159"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mekanismgenerators$heat_generator.cfg",
+      "hash": "ebe007aed805d27e53bff0695ddc63350a03e0b5"
+    },
+    {
+      "path": "config/adchimneys/Emitters/minecraft$blast_furnace.cfg",
+      "hash": "99ee9dbb6778fefc6799a128fd01d344f267bf01"
+    },
+    {
+      "path": "config/adchimneys/Emitters/minecraft$campfire.cfg",
+      "hash": "57e29030fc7d7c89a2b84fe720b0718106c6e233"
+    },
+    {
+      "path": "config/adchimneys/Emitters/minecraft$campfire_signal.cfg",
+      "hash": "4009f07bbfb00834a2b844d5d3664d9578e4adfa"
+    },
+    {
+      "path": "config/adchimneys/Emitters/minecraft$furnace.cfg",
+      "hash": "fa832ef92b342b1be89209648ed756f5b8e33911"
+    },
+    {
+      "path": "config/adchimneys/Emitters/minecraft$smoker.cfg",
+      "hash": "200408664597228d87b0b7243e2ed9e46d867681"
+    },
+    {
+      "path": "config/adchimneys/Emitters/minecraft$soul_campfire.cfg",
+      "hash": "542a0be653c121921adae18d810f0eda4547f099"
+    },
+    {
+      "path": "config/adchimneys/Emitters/minecraft$soul_campfire_signal.cfg",
+      "hash": "acb4f33d6f42bd2d65a7f2685f10c473fa3aa11a"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$basic_reprocessor.cfg",
+      "hash": "4ffe8340567d708c08fbdc421251b0710f1e2166"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$imperium_furnace.cfg",
+      "hash": "83a5530651c1597be4701876f25b62c8a7c22ada"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$imperium_reprocessor.cfg",
+      "hash": "3f654eec37f830d17a674d9f94558b4c4edf5621"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$inferium_furnace.cfg",
+      "hash": "e937408487fd68f8b7bf42d66613f7160e681b36"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$inferium_reprocessor.cfg",
+      "hash": "0f71879d7af02bc9cdcf47bbf64ead9415a6e8bf"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$prudentium_furnace.cfg",
+      "hash": "a7c0690cf2a05dd6593bdb84444663cf24d321c1"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$prudentium_reprocessor.cfg",
+      "hash": "f9a8804ddeb197c8310fde9664fb3056de6312e8"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$supremium_furnace.cfg",
+      "hash": "28c058b560880477804fcfa50ca9c29420970406"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$supremium_reprocessor.cfg",
+      "hash": "7f0f705dfc90137ba58786af6de454c1ebaa48b5"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$tertium_furnace.cfg",
+      "hash": "f8880c6f01a46f8fe270ffc21634d1696431e37d"
+    },
+    {
+      "path": "config/adchimneys/Emitters/mysticalagriculture$tertium_reprocessor.cfg",
+      "hash": "25fcf13a1251944b255b63744ea49d308b97bc94"
+    },
+    {
+      "path": "config/adchimneys/Emitters/pneumaticcraft$advanced_air_compressor.cfg",
+      "hash": "accaa2abd1b406865a0b7904766f7583a3278f23"
+    },
+    {
+      "path": "config/adchimneys/Emitters/pneumaticcraft$advanced_liquid_compressor.cfg",
+      "hash": "2c426b4e866a2d403ee80b75aa76982da98cd9af"
+    },
+    {
+      "path": "config/adchimneys/Emitters/pneumaticcraft$air_compressor.cfg",
+      "hash": "5401471e1f975761070e338ad93302de971f7944"
+    },
+    {
+      "path": "config/adchimneys/Emitters/pneumaticcraft$liquid_compressor.cfg",
+      "hash": "c7b0d000a8559ad9b08367207edf5c1f6fcdd5a3"
+    },
+    {
+      "path": "config/adchimneys/Emitters/quark$blackstone_furnace.cfg",
+      "hash": "e6140797dc58da81c3dc5b000ba19db7bd6d5b92"
+    },
+    {
+      "path": "config/adchimneys/Emitters/quark$deepslate_furnace.cfg",
+      "hash": "2b9afb7ca431107f249db74cb0b1293ddfa8bcbc"
+    },
+    {
+      "path": "config/adchimneys/Emitters/rftoolspower$blazing_generator.cfg",
+      "hash": "2d13e6b332f042af73f66fa86358e44996eb46fe"
+    },
+    {
+      "path": "config/adchimneys/Emitters/rftoolspower$coal_generator.cfg",
+      "hash": "24cb72a91dc508c18c1a36959e2d3f0d12665356"
+    },
+    {
+      "path": "config/adchimneys/Emitters/silents_mechanisms$coal_generator.cfg",
+      "hash": "d72ef0f0e9231340293fd7333db49c412f26e23e"
+    },
+    {
+      "path": "config/adchimneys/Emitters/silents_mechanisms$diesel_generator.cfg",
+      "hash": "30b56c620e792fe8cefb28454142af89a4a42b38"
+    },
+    {
+      "path": "config/adchimneys/Emitters/silents_mechanisms$lava_generator.cfg",
+      "hash": "3daedbd41a9e299f062369cb7f888531797d31c3"
+    },
+    {
+      "path": "config/adchimneys/Emitters/simplekiln$kiln.cfg",
+      "hash": "94dd6781a4775519437328407abb392aceb292ae"
+    },
+    {
+      "path": "config/adchimneys/Emitters/steampowered$bronze_burner.cfg",
+      "hash": "f2ccfc09f85f559e0cc88d6a0222a24d485a3f75"
+    },
+    {
+      "path": "config/adchimneys/Emitters/steampowered$cast_iron_burner.cfg",
+      "hash": "5310f2962dbc985062dc103abe8fc53597c1473f"
+    },
+    {
+      "path": "config/adchimneys/Emitters/steampowered$steel_burner.cfg",
+      "hash": "d70e8ef3c21d72431ab2cd9df07b7f72b877c109"
+    },
+    {
+      "path": "config/adchimneys/Emitters/tconstruct$foundry_controller.cfg",
+      "hash": "6557afbefb59681fd5349374bc566b3c01244590"
+    },
+    {
+      "path": "config/adchimneys/Emitters/tconstruct$seared_melter.cfg",
+      "hash": "7a72da560cdda9cd069c1fc3bec26e9c97f14293"
+    },
+    {
+      "path": "config/adchimneys/Emitters/tconstruct$smeltery_controller.cfg",
+      "hash": "f064a501725083675a3ea760f28c18ae43d95a46"
+    },
+    {
+      "path": "config/adchimneys/Emitters/thermal$dynamo_compression.cfg",
+      "hash": "2bd02178d267252d5bd27170cd214d2a7d92a847"
+    },
+    {
+      "path": "config/adchimneys/Emitters/thermal$dynamo_magmatic.cfg",
+      "hash": "ccc9c192872d337ca2d02f6a9d5aaf1104b1d5ce"
+    },
+    {
+      "path": "config/adchimneys/Emitters/thermal$dynamo_stirling.cfg",
+      "hash": "3dad9b16635d069fa15931bf52c0cd910c8237a3"
+    },
+    {
+      "path": "config/adchimneys/Emitters/thermal$machine_furnace.cfg",
+      "hash": "c948be62000b117a4cf79754e12022bebd88f66f"
+    },
+    {
+      "path": "config/adchimneys/Emitters/thermal$machine_smelter.cfg",
+      "hash": "7514ab0c98379eb9d3208dcba00fbd2d94f53376"
+    },
+    {
+      "path": "config/adchimneys-client.toml",
+      "hash": "deafa8e328e0c8c0a0b83764c1394315a9d77cd9"
+    },
+    {
+      "path": "config/adchimneys-common.toml",
+      "hash": "00ffe737dbd7a3ba6637a990d48f448c5c7801f7"
+    },
+    {
+      "path": "config/adpother/Blocks/filter_frame.cfg",
+      "hash": "7e9e54ca2ec3991503a190f5bfb6f89174fb366d"
+    },
+    {
+      "path": "config/adpother/Bounds.cfg",
+      "hash": "b764cce00305eaedb54683846cb683ce41c2f113"
+    },
+    {
+      "path": "config/adpother/Breakables/charcoal_block.cfg",
+      "hash": "d7a6f197eecb2f4192dce72acca55aa2c2d4bc93"
+    },
+    {
+      "path": "config/adpother/Breakables/coal_block.cfg",
+      "hash": "b1c84c53b3cc88ebbf5090021d09e02f8bb118c0"
+    },
+    {
+      "path": "config/adpother/Breakables/coal_ore.cfg",
+      "hash": "5211825a790310af8afa3b83caba88306cea2f9b"
+    },
+    {
+      "path": "config/adpother/Breakables/coke_block.cfg",
+      "hash": "dfd4650c0bd07aeb926a9d77f7b7635078446b10"
+    },
+    {
+      "path": "config/adpother/Breakables/sulfur_block.cfg",
+      "hash": "2d4835bc59a67618eb4f29ced9c43d1860ef1a5e"
+    },
+    {
+      "path": "config/adpother/Breakables/sulfur_ore.cfg",
+      "hash": "9bf780cff374a2c3b36da3df08081422a84c978e"
+    },
+    {
+      "path": "config/adpother/Emitters/betterminecarts$steam_locomotive.cfg",
+      "hash": "164c852c9449571c86f0275e8c3304fe132dacb9"
+    },
+    {
+      "path": "config/adpother/Emitters/beyond_earth$coal_generator.cfg",
+      "hash": "f35b8c7850dbbe9f4cfb9c4be102fe1748930c51"
+    },
+    {
+      "path": "config/adpother/Emitters/beyond_earth$rocket_t1.cfg",
+      "hash": "dc453bbeef0b7c4796f4e04e5ad24cbedd0ed1dd"
+    },
+    {
+      "path": "config/adpother/Emitters/beyond_earth$rocket_t2.cfg",
+      "hash": "f9ae69cb5821beaf888a13251514c499bf6b36b9"
+    },
+    {
+      "path": "config/adpother/Emitters/beyond_earth$rocket_t3.cfg",
+      "hash": "86cc63e7883014328b692c53c383530cd3f1b84c"
+    },
+    {
+      "path": "config/adpother/Emitters/beyond_earth$rocket_t4.cfg",
+      "hash": "b53a35dd51acd38e11058a71bf1a16a18537ca26"
+    },
+    {
+      "path": "config/adpother/Emitters/beyond_earth$rover.cfg",
+      "hash": "78be4608890312bc2825da6f7d6cae8fb011ccb1"
+    },
+    {
+      "path": "config/adpother/Emitters/brickfurnace$brick_blast_furnace.cfg",
+      "hash": "50ce450e45e7a55b0d80942e93539265e9af088e"
+    },
+    {
+      "path": "config/adpother/Emitters/brickfurnace$brick_furnace.cfg",
+      "hash": "e65a07ebb511f393461be9aecd094832a4afd817"
+    },
+    {
+      "path": "config/adpother/Emitters/brickfurnace$brick_smoker.cfg",
+      "hash": "eb8837f68e8610a2c8f8bb07061e3c0027849ed0"
+    },
+    {
+      "path": "config/adpother/Emitters/byg$boric_campfire.cfg",
+      "hash": "7553b34440b240b55d260cf3dfb0cc69cb125c37"
+    },
+    {
+      "path": "config/adpother/Emitters/byg$boric_campfire_signal.cfg",
+      "hash": "fee3adcc02541f4bd80bd53adb67830e137908e6"
+    },
+    {
+      "path": "config/adpother/Emitters/byg$cryptic_campfire.cfg",
+      "hash": "1fe80346021fc1b3c2a6a9365b83e8e4af766e27"
+    },
+    {
+      "path": "config/adpother/Emitters/byg$cryptic_campfire_signal.cfg",
+      "hash": "4f82be90cd031958b669c9d8cc0df848aa6afbbc"
+    },
+    {
+      "path": "config/adpother/Emitters/car$blastfurnace.cfg",
+      "hash": "b4bae6612f97250e1ccf83577ca0ef5dc67d459a"
+    },
+    {
+      "path": "config/adpother/Emitters/car$car.cfg",
+      "hash": "85949503f651359782ff9f0a5a5b0f285277628d"
+    },
+    {
+      "path": "config/adpother/Emitters/caupona$brick_kitchen_stove.cfg",
+      "hash": "1f0f9d032ecefd032f0ac6f3f0305747758c75d2"
+    },
+    {
+      "path": "config/adpother/Emitters/caupona$mud_kitchen_stove.cfg",
+      "hash": "b6ed59d04b1ad0738580adb266be57d60b492930"
+    },
+    {
+      "path": "config/adpother/Emitters/caupona$opus_incertum_kitchen_stove.cfg",
+      "hash": "b5acd4039119930ad75aad7232c3f594e55e440f"
+    },
+    {
+      "path": "config/adpother/Emitters/caupona$opus_latericium_kitchen_stove.cfg",
+      "hash": "50a4384bd4c002d222a81cddd3d8fc9d024b133a"
+    },
+    {
+      "path": "config/adpother/Emitters/caupona$stone_brick_kitchen_stove.cfg",
+      "hash": "a52373851f56adaf087d70a915e52656b4375a8a"
+    },
+    {
+      "path": "config/adpother/Emitters/cfm$bath.cfg",
+      "hash": "94694f6034e3694ba6a0500836eca0f6ff17dcdc"
+    },
+    {
+      "path": "config/adpother/Emitters/cfm$couch.cfg",
+      "hash": "e1052ba159a7a062cd362e9149e8603bd7082c8d"
+    },
+    {
+      "path": "config/adpother/Emitters/cfm$sofacopter.cfg",
+      "hash": "ba7a050f0ab9666d17a05c484ca8dd5795de3519"
+    },
+    {
+      "path": "config/adpother/Emitters/charcoal_pit$active_log_pile.cfg",
+      "hash": "e38ef563e2e3bfd7125e4f5af3346b3772055cfe"
+    },
+    {
+      "path": "config/adpother/Emitters/charcoal_pit$blast_furnace.cfg",
+      "hash": "c3e2eba6fb3033a4071f4f549442dd7c83c96a64"
+    },
+    {
+      "path": "config/adpother/Emitters/charcoal_pit$bloomeryy.cfg",
+      "hash": "64b5ec22a22dc711f194d7e49eafb5b3201a36c1"
+    },
+    {
+      "path": "config/adpother/Emitters/charcoal_pit$distillery.cfg",
+      "hash": "91f3c476b38db6ab3a78c0984108e606f50180a8"
+    },
+    {
+      "path": "config/adpother/Emitters/charcoal_pit$steam_press.cfg",
+      "hash": "8ae102487695755d01e8755b24c2e0a337cb348d"
+    },
+    {
+      "path": "config/adpother/Emitters/clayworks$kiln.cfg",
+      "hash": "657a9ae3d4645f39a79bd1f36d4abbbae747d05d"
+    },
+    {
+      "path": "config/adpother/Emitters/cold_sweat$boiler.cfg",
+      "hash": "8f8939fcfece1ccc3bf38ee647a069e0ce8e4ecb"
+    },
+    {
+      "path": "config/adpother/Emitters/cold_sweat$hearth.cfg",
+      "hash": "f12258a5be7eb13289785885202da6ed67fac711"
+    },
+    {
+      "path": "config/adpother/Emitters/cookingforblockheads$oven.cfg",
+      "hash": "b1acdc5704eab204b04f2f89ddc2168d9e4e1ccb"
+    },
+    {
+      "path": "config/adpother/Emitters/create$blaze_burner.cfg",
+      "hash": "19e487066f50a01e326c0c2b9e543023fd0eca98"
+    },
+    {
+      "path": "config/adpother/Emitters/create$crushing_wheel_controller.cfg",
+      "hash": "ad7b495289496820d000f9a2348e5e1e63637784"
+    },
+    {
+      "path": "config/adpother/Emitters/create$millstone.cfg",
+      "hash": "a9e76275726dcbc831d85bfa5e2a5c566dce44b0"
+    },
+    {
+      "path": "config/adpother/Emitters/createaddition$crude_burner.cfg",
+      "hash": "76a09a1bd23440a7aeb6048ba9b925bc6dbd4872"
+    },
+    {
+      "path": "config/adpother/Emitters/createaddition$furnace_burner.cfg",
+      "hash": "a72aa006b7e225005388e9e09ba1bae0269df6f7"
+    },
+    {
+      "path": "config/adpother/Emitters/createdieselgenerators$diesel_engine.cfg",
+      "hash": "3cee997a6bb8665f97dd9484973111ea5eb42443"
+    },
+    {
+      "path": "config/adpother/Emitters/createdieselgenerators$large_diesel_engine.cfg",
+      "hash": "0e796c7db30001070928f85d5efe68da4437b084"
+    },
+    {
+      "path": "config/adpother/Emitters/createtfmg$diesel_engine.cfg",
+      "hash": "fbd7b1a078284ff5abedad0ce70de6d95d80948a"
+    },
+    {
+      "path": "config/adpother/Emitters/createtfmg$gasoline_engine.cfg",
+      "hash": "3d8bea1330dfe666a608e4909448002182ca0acd"
+    },
+    {
+      "path": "config/adpother/Emitters/createtfmg$lpg_engine.cfg",
+      "hash": "3d09d71892e3d62aaa4aa538c4dad58ad13d93d9"
+    },
+    {
+      "path": "config/adpother/Emitters/createtfmg$turbine_engine.cfg",
+      "hash": "77b77ed4de09d600e9c7fe52c9043befe0a23541"
+    },
+    {
+      "path": "config/adpother/Emitters/crossroads$firebox.cfg",
+      "hash": "e01942d74461830e99f5b39e665fb86cd4424519"
+    },
+    {
+      "path": "config/adpother/Emitters/crossroads$millstone.cfg",
+      "hash": "88b964abb8b68bd154e45b147665960957f05758"
+    },
+    {
+      "path": "config/adpother/Emitters/crossroads$stamp_mill.cfg",
+      "hash": "992dedf66dbacf93e1e48b3a392f5b7f9afcd2ef"
+    },
+    {
+      "path": "config/adpother/Emitters/divinerpg$coalstone_furnace.cfg",
+      "hash": "92e10426bce91b7a642f4f65c5ee292a17d8ceb4"
+    },
+    {
+      "path": "config/adpother/Emitters/divinerpg$demon_furnace.cfg",
+      "hash": "652eb4fcacaf196e99bfad68509a260380abb998"
+    },
+    {
+      "path": "config/adpother/Emitters/divinerpg$greenlight_furnace.cfg",
+      "hash": "fd2bb7fb9b068471740ef99c73b59bee26e2ee19"
+    },
+    {
+      "path": "config/adpother/Emitters/divinerpg$molten_furnace.cfg",
+      "hash": "1e3e2ddaec76ac8cb664df4ab3a249996c3637d5"
+    },
+    {
+      "path": "config/adpother/Emitters/divinerpg$moonlight_furnace.cfg",
+      "hash": "19a5c9a5cd3084db656e0bbd9e8a50fd950ab4ca"
+    },
+    {
+      "path": "config/adpother/Emitters/divinerpg$oceanfire_furnace.cfg",
+      "hash": "3e799560994321022f2cba8a66e102ac9b41af32"
+    },
+    {
+      "path": "config/adpother/Emitters/divinerpg$whitefire_furnace.cfg",
+      "hash": "89f6ea22687d9ee15e81b5534ca931e63e575a71"
+    },
+    {
+      "path": "config/adpother/Emitters/extractinator$extractinator.cfg",
+      "hash": "d3a4b6a5f1581169236ab6ad3acd21c497325e23"
+    },
+    {
+      "path": "config/adpother/Emitters/farmersdelight$stove.cfg",
+      "hash": "90da96ea7d74f7ba43c5f5a2f6eb0e8b0a118b52"
+    },
+    {
+      "path": "config/adpother/Emitters/futurepack$industrial_furnace.cfg",
+      "hash": "4f9e62254a9e221bd8cbe8d6d55c85139bc866a1"
+    },
+    {
+      "path": "config/adpother/Emitters/futurepack$part_press.cfg",
+      "hash": "76fe23175acb19801f3861ffe53cea9731626f9e"
+    },
+    {
+      "path": "config/adpother/Emitters/handcrafted$oven.cfg",
+      "hash": "50b09df52bf325b46466796336517fc3827d3164"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$alloy_smelter.cfg",
+      "hash": "67a168c2fdb9ce37479081ec640b2adfa1a1505c"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$colossal_furnace.cfg",
+      "hash": "de1080c063bd8979cb31a5fa84aaf17f5ef47d63"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$colossal_macerator.cfg",
+      "hash": "5928cea7a5608be2e3fe9de86bbef7cec743f6cb"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$fuel_boiler.cfg",
+      "hash": "2c9248265608b6a79b05a38f7064f0ecedf59ec0"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$generator.cfg",
+      "hash": "d6601ea3df2fafb3e34f69569809c043c883a908"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$iron_furnace.cfg",
+      "hash": "09f84f1e0cc3d6e8747a266a0e66acafa204e0bd"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$liquid_generator.cfg",
+      "hash": "add9dfb93540a7ba771a7a45ec3716d20f00548e"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$macerator.cfg",
+      "hash": "323acb322454f8679243d262e4a7a30509158fb4"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$rotary_macerator.cfg",
+      "hash": "fd8216e57641c88658477a41ecd65af9d96c038b"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$slag_generator.cfg",
+      "hash": "ea9cb1c3dbf82673d55727d08059180558056053"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$stone_canner.cfg",
+      "hash": "cbc78d9a892a81f18e2ae1e09787e726b7d3620c"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$stone_macerator.cfg",
+      "hash": "9e416d07c0613c070102086292249c1db0511fe3"
+    },
+    {
+      "path": "config/adpother/Emitters/ic2$wood_gassifier.cfg",
+      "hash": "66f63822f0edc460af875e593bd86ccf998c4dab"
+    },
+    {
+      "path": "config/adpother/Emitters/immersiveengineering$advanced_blast_furnace.cfg",
+      "hash": "40f2f415b539fc175c361d8939a119b33cd3d902"
+    },
+    {
+      "path": "config/adpother/Emitters/immersiveengineering$alloy_smelter.cfg",
+      "hash": "5ccc75d570a61aa083ed256e4a13e8ffaf96550d"
+    },
+    {
+      "path": "config/adpother/Emitters/immersiveengineering$blast_furnace.cfg",
+      "hash": "38d5ccbdc9485e393d6ebf24997c0070d244cf3d"
+    },
+    {
+      "path": "config/adpother/Emitters/immersiveengineering$bucket_wheel.cfg",
+      "hash": "fb355eec09e3a7555917b9a0a1ab598289f3634b"
+    },
+    {
+      "path": "config/adpother/Emitters/immersiveengineering$coke_oven.cfg",
+      "hash": "79ab329097f1777fe480eb1fc3da1771a6751636"
+    },
+    {
+      "path": "config/adpother/Emitters/immersiveengineering$crusher.cfg",
+      "hash": "b6b303a82ed6d942d743b22cef67ede3d7cf459d"
+    },
+    {
+      "path": "config/adpother/Emitters/immersiveengineering$diesel_generator.cfg",
+      "hash": "ccf5f44e3e8dcf6b78b48ac9cc2ec2a8a5d66403"
+    },
+    {
+      "path": "config/adpother/Emitters/immersivepetroleum$portable_generator.cfg",
+      "hash": "3ac8a3ec949f8d18ade88b1336e947d2829c19ab"
+    },
+    {
+      "path": "config/adpother/Emitters/immersivepetroleum$speedboat.cfg",
+      "hash": "298af68e0864893f040646f01081d48cebaa090a"
+    },
+    {
+      "path": "config/adpother/Emitters/immersiverailroading$diesel_locomotive.cfg",
+      "hash": "4efe7c9e001f3eb50fc4918d71a0c14eb95fb7dc"
+    },
+    {
+      "path": "config/adpother/Emitters/immersiverailroading$steam_locomotive.cfg",
+      "hash": "10d5648f442806a91d2dec37b41062f37629ddb2"
+    },
+    {
+      "path": "config/adpother/Emitters/industrialforegoing$biofuel_generator.cfg",
+      "hash": "58adf110acb96f2b90fb4e1faf94f07e4219e050"
+    },
+    {
+      "path": "config/adpother/Emitters/industrialforegoing$pitiful_generator.cfg",
+      "hash": "e2abd40be4bf5d86e5f067511c87a8debb624ab8"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$copper_furnace.cfg",
+      "hash": "82fd831a3d506b41093bee7ec83d9616f64ed07c"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$crystal_furnace.cfg",
+      "hash": "05c8b40de9032380e4e18af049186f97f32f491e"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$diamond_furnace.cfg",
+      "hash": "c40fc49bae7e690c852a95961bb763df78cd827c"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$emerald_furnace.cfg",
+      "hash": "ee36bf7b2a7b7a6dad6e2d4502c2810d385af9aa"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$gold_furnace.cfg",
+      "hash": "01890863424e95bec5defd9ba0f578b723026863"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$iron_furnace.cfg",
+      "hash": "fcdb68b133cbe51776787e38363762dc4d97232b"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$million_furnace.cfg",
+      "hash": "91e31ccbf004090bf9a7c66755c7ac0d1462f541"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$netherite_furnace.cfg",
+      "hash": "9cf7f1dd8c391d39418e1f252efa7ecd0d198e6b"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$obsidian_furnace.cfg",
+      "hash": "7c193dc8b4d24dadabf639383e71f0eef3dcb13c"
+    },
+    {
+      "path": "config/adpother/Emitters/ironfurnaces$silver_furnace.cfg",
+      "hash": "fc1d40710fb12e5443622343a8a66f9c2e6f0fba"
+    },
+    {
+      "path": "config/adpother/Emitters/jumbofurnace$jumbo_furnace.cfg",
+      "hash": "fb1952ec085bf082d2725abd257cb7ff76880785"
+    },
+    {
+      "path": "config/adpother/Emitters/littlelogistics$steam_locomotive.cfg",
+      "hash": "2fbdb4280d5f192529456594bbd7c33a3830d3f8"
+    },
+    {
+      "path": "config/adpother/Emitters/littlelogistics$tug.cfg",
+      "hash": "586dbefbd133bf681651f80691b7007be5e215c1"
+    },
+    {
+      "path": "config/adpother/Emitters/mekanism$advanced_crushing_factory.cfg",
+      "hash": "204220aa6140407ea2f083c61b2d52ecb7479ead"
+    },
+    {
+      "path": "config/adpother/Emitters/mekanism$basic_crushing_factory.cfg",
+      "hash": "b5db023325223fd3fb8cb16cda18f77e2c5ed3e7"
+    },
+    {
+      "path": "config/adpother/Emitters/mekanism$crusher.cfg",
+      "hash": "b95db7a96b7d817b9b7267a1684f72ef7afa5c0d"
+    },
+    {
+      "path": "config/adpother/Emitters/mekanism$elite_crushing_factory.cfg",
+      "hash": "a61cea7191d60ed1f974e828d61da9667b30afa0"
+    },
+    {
+      "path": "config/adpother/Emitters/mekanism$fuelwood_heater.cfg",
+      "hash": "995521a464162ee6644ce2d40af9f666e428231c"
+    },
+    {
+      "path": "config/adpother/Emitters/mekanism$ultimate_crushing_factory.cfg",
+      "hash": "a382f20971bf922c3bf4e85b55a04d952dcc5878"
+    },
+    {
+      "path": "config/adpother/Emitters/mekanismgenerators$bio_generator.cfg",
+      "hash": "d16af10d6fe405aa0181fef21b48817a8b8fc1d5"
+    },
+    {
+      "path": "config/adpother/Emitters/mekanismgenerators$gas_burning_generator.cfg",
+      "hash": "2f80ce9f8daa12341c2ffb7e7d158c50475e14f3"
+    },
+    {
+      "path": "config/adpother/Emitters/mekanismgenerators$heat_generator.cfg",
+      "hash": "32180316f4aec1264c72ac8e60cb07845d1d39e7"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$blast_furnace.cfg",
+      "hash": "3a5bea14e6c59860489afc051302aeb6e628dbca"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$campfire.cfg",
+      "hash": "413a4779ca73db1a8ada402837e19cb55fa396f5"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$campfire_signal.cfg",
+      "hash": "edc526087a7e94ec07a7ff68bf85f42154c9e888"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$fire.cfg",
+      "hash": "89290e8db508590e703ed4d3045f4d03e99eb7c4"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$furnace.cfg",
+      "hash": "67f9a7265b2ae6f9a702328d1d678deffb3f8418"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$furnace_minecart.cfg",
+      "hash": "f514028f7b6c127571abb03d4b7055d585c64183"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$lava.cfg",
+      "hash": "5fedcbe3a3e9f8c2051e1a413aa6fa4d5cecb139"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$smoker.cfg",
+      "hash": "d003b7fd8d410294fa89a5e24a91f6f353365b76"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$soul_campfire.cfg",
+      "hash": "fc753bd1eafe9997d1bb65b2fc013db918c92bd6"
+    },
+    {
+      "path": "config/adpother/Emitters/minecraft$soul_campfire_signal.cfg",
+      "hash": "6e8fcc3be1e0bf32de358cd2cb32f9559d572bb3"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$basic_reprocessor.cfg",
+      "hash": "4f65a16bea98742ee11e4bc271f8f58b90dd2bda"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$imperium_furnace.cfg",
+      "hash": "528b04f34007770c6366e92bba46cba182b81752"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$imperium_reprocessor.cfg",
+      "hash": "c47dfb00f8eeb317c9bb961eb326860bd7d92c86"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$inferium_furnace.cfg",
+      "hash": "a248a8a1e57c3c8b339bae13f34cccca85f73cf4"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$inferium_reprocessor.cfg",
+      "hash": "b9f1a861f8e77362a48b5efa735f8654d467a346"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$prudentium_furnace.cfg",
+      "hash": "c28d3a6e35168f82fe95b119b014403de6899ea6"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$prudentium_reprocessor.cfg",
+      "hash": "d63b92e50999d91a3a523d5a7d93c753f1d407fb"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$supremium_furnace.cfg",
+      "hash": "e2da8bbed09f0fa1969de5284e914019aa033380"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$supremium_reprocessor.cfg",
+      "hash": "44d96f7cb79ba8ba232b90ad131ec83e67c7e002"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$tertium_furnace.cfg",
+      "hash": "1a6e2db66c6ae1b102da4d603f3e347a98f6172a"
+    },
+    {
+      "path": "config/adpother/Emitters/mysticalagriculture$tertium_reprocessor.cfg",
+      "hash": "3fb008a69669f87945f77015e7b57b3feb67d5ec"
+    },
+    {
+      "path": "config/adpother/Emitters/nethersdelight$blackstone_blast_furnace.cfg",
+      "hash": "0783bf6dec78d2b55342502972030a477ffdc157"
+    },
+    {
+      "path": "config/adpother/Emitters/nethersdelight$blackstone_furnace.cfg",
+      "hash": "d474fbe15184c8c902faf4a13a218ca68368e8f7"
+    },
+    {
+      "path": "config/adpother/Emitters/nethersdelight$blackstone_stove.cfg",
+      "hash": "c56735001ff091f838d906161a4a6ee32890765c"
+    },
+    {
+      "path": "config/adpother/Emitters/nethersdelight$nether_brick_smoker.cfg",
+      "hash": "651be4ff7ba47713ca1663e6ba68176f0d401003"
+    },
+    {
+      "path": "config/adpother/Emitters/pneumaticcraft$advanced_air_compressor.cfg",
+      "hash": "f5d80c35835e19fea5585550a41aa87cc1e280a9"
+    },
+    {
+      "path": "config/adpother/Emitters/pneumaticcraft$advanced_liquid_compressor.cfg",
+      "hash": "af0685a14990f7ac7cffb2e50c966b60e576b628"
+    },
+    {
+      "path": "config/adpother/Emitters/pneumaticcraft$air_compressor.cfg",
+      "hash": "b4beeed10ae3c77fff91af4699e5c789f92820f2"
+    },
+    {
+      "path": "config/adpother/Emitters/pneumaticcraft$liquid_compressor.cfg",
+      "hash": "5b4a80318ef966e71027a8c2aa71a3c177ebd7f6"
+    },
+    {
+      "path": "config/adpother/Emitters/quark$blackstone_furnace.cfg",
+      "hash": "cf16486ac902c3df31efdd975d5726fa4db81c04"
+    },
+    {
+      "path": "config/adpother/Emitters/quark$deepslate_furnace.cfg",
+      "hash": "e749c98af43ff8956bc749293967a532d018c529"
+    },
+    {
+      "path": "config/adpother/Emitters/quarryplus$solid_fuel_quarry.cfg",
+      "hash": "c5b342890d13e2abcae36cd61546c4009ec27b6d"
+    },
+    {
+      "path": "config/adpother/Emitters/rftoolspower$blazing_generator.cfg",
+      "hash": "a8c57cc9570a258ca865964f2a5ec5473c328852"
+    },
+    {
+      "path": "config/adpother/Emitters/rftoolspower$coal_generator.cfg",
+      "hash": "ba3371a306aef72b8dad4e3074f14d60a0f729ee"
+    },
+    {
+      "path": "config/adpother/Emitters/silents_mechanisms$basic_crusher.cfg",
+      "hash": "62dbf47dcc8beb679b885918010fe1308f920d99"
+    },
+    {
+      "path": "config/adpother/Emitters/silents_mechanisms$coal_generator.cfg",
+      "hash": "16f2b7b6f8e98f9d642bfc8ba0b90a71bbdf6469"
+    },
+    {
+      "path": "config/adpother/Emitters/silents_mechanisms$crusher.cfg",
+      "hash": "43ddf95d292a83acdcd05bb50d80f3a9c0c281b8"
+    },
+    {
+      "path": "config/adpother/Emitters/silents_mechanisms$diesel_generator.cfg",
+      "hash": "633a800f1a7cb518b758f7ffa02afca2dc62d53f"
+    },
+    {
+      "path": "config/adpother/Emitters/silents_mechanisms$lava_generator.cfg",
+      "hash": "b597eb5f70714240a7ab7dbd7eae9419ff3fc901"
+    },
+    {
+      "path": "config/adpother/Emitters/simpleplanes$helicopter.cfg",
+      "hash": "0ffac9ccb4f47369df250dbdd3aa452dd5ef9219"
+    },
+    {
+      "path": "config/adpother/Emitters/simpleplanes$large_plane.cfg",
+      "hash": "e4ea47428261c5647620d879c0d3913876f63ecb"
+    },
+    {
+      "path": "config/adpother/Emitters/simpleplanes$plane.cfg",
+      "hash": "7ccac1b3b9f8284890987204d6a047c2bfc7d3b8"
+    },
+    {
+      "path": "config/adpother/Emitters/steampowered$bronze_burner.cfg",
+      "hash": "ae5e8aa43563cdca08cfc247cea6ad093ac18361"
+    },
+    {
+      "path": "config/adpother/Emitters/steampowered$cast_iron_burner.cfg",
+      "hash": "ee62092ec74f6a0d34b2964b30b3973f427255b2"
+    },
+    {
+      "path": "config/adpother/Emitters/steampowered$steel_burner.cfg",
+      "hash": "7e1c89a6120651bdef3cde374d4b8716f00e8e85"
+    },
+    {
+      "path": "config/adpother/Emitters/tconstruct$foundry_controller.cfg",
+      "hash": "784a9cf217bdfd4e6a0c6e70e0ce53d66fd67552"
+    },
+    {
+      "path": "config/adpother/Emitters/tconstruct$seared_melter.cfg",
+      "hash": "3bb127a2c680242785f220a05aa61fd581da8e1a"
+    },
+    {
+      "path": "config/adpother/Emitters/tconstruct$smeltery_controller.cfg",
+      "hash": "272fdd6b6d68ddbe5ef0fd09b5458d03372b1595"
+    },
+    {
+      "path": "config/adpother/Emitters/tfc$blast_furnace.cfg",
+      "hash": "1dbe7338233a75f8a651b15f26da9df40153d585"
+    },
+    {
+      "path": "config/adpother/Emitters/tfc$bloomery.cfg",
+      "hash": "7fa5a5c25fb58a93f867404b7b6f1f6d428a4bf7"
+    },
+    {
+      "path": "config/adpother/Emitters/tfc$burning_log_pile.cfg",
+      "hash": "0b44c5a23da0d6b0d22e80a74a2fd88e599a8e32"
+    },
+    {
+      "path": "config/adpother/Emitters/tfc$charcoal_forge.cfg",
+      "hash": "ad32ce3b54462a0b33e671851c4672cf455105d7"
+    },
+    {
+      "path": "config/adpother/Emitters/tfc$firepit.cfg",
+      "hash": "0faa86a0b456eafc23e2d91bd44c2c3108e0333d"
+    },
+    {
+      "path": "config/adpother/Emitters/tfc$grill.cfg",
+      "hash": "0e4c465451b2e37bbd57e235bb4ce44460105cf4"
+    },
+    {
+      "path": "config/adpother/Emitters/tfc$pit_kiln.cfg",
+      "hash": "aa16c335d620308de795daf0499508f7c374d081"
+    },
+    {
+      "path": "config/adpother/Emitters/tfc$pot.cfg",
+      "hash": "b0ebaaab85e0a60e3b3316f04c72124c2f75314f"
+    },
+    {
+      "path": "config/adpother/Emitters/thermal$dynamo_compression.cfg",
+      "hash": "873bf2b3443f15853b6a8e2c3de7effdad4b7fbb"
+    },
+    {
+      "path": "config/adpother/Emitters/thermal$dynamo_magmatic.cfg",
+      "hash": "ec1c033fe098c6910aa6ddd7d484f594d756b9f3"
+    },
+    {
+      "path": "config/adpother/Emitters/thermal$dynamo_stirling.cfg",
+      "hash": "d032376572f353e783a497eb21b6bf9bc20347fd"
+    },
+    {
+      "path": "config/adpother/Emitters/thermal$machine_furnace.cfg",
+      "hash": "d2c790e8730cf3669d067b63fe95a52a0a2b7330"
+    },
+    {
+      "path": "config/adpother/Emitters/thermal$machine_pulverizer.cfg",
+      "hash": "47b3c27c83c62f27024b6bbc3314f4567c19f940"
+    },
+    {
+      "path": "config/adpother/Emitters/thermal$machine_sawmill.cfg",
+      "hash": "d4262a043b2e3949b5fd08cc59eac2fc2763d43a"
+    },
+    {
+      "path": "config/adpother/Emitters/thermal$machine_smelter.cfg",
+      "hash": "f3c1590ec6555bd26b40668a42be2eed3733a3ad"
+    },
+    {
+      "path": "config/adpother/Emitters/trajanstanks$cruisermk1.cfg",
+      "hash": "a3b53c4b3a4a6db032c93fecaa6b20eb4c0c2e31"
+    },
+    {
+      "path": "config/adpother/Emitters/trajanstanks$m4sherman.cfg",
+      "hash": "e0c3e9a7fb09dc9563cbdf3cd70950949c4e23ef"
+    },
+    {
+      "path": "config/adpother/Emitters/trajanstanks$panzer_two.cfg",
+      "hash": "40f4178b842cab8e1f80e0a8b39000344b98f57b"
+    },
+    {
+      "path": "config/adpother/Emitters/trajanstanks$t34.cfg",
+      "hash": "725ba00170c3c8a49c7dabc507c35951be40956c"
+    },
+    {
+      "path": "config/adpother/Emitters/trajanstanks$tiger_tank.cfg",
+      "hash": "349303efb653238a8b2634d84fc11404e195338e"
+    },
+    {
+      "path": "config/adpother/Emitters/twilightdelight$maze_stove.cfg",
+      "hash": "028cfbd91af1ad1558a73ef2d5ef3a06e4c5ee31"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$aluminum_boat.cfg",
+      "hash": "fa2a0158b47a9ddbf28669d3d649d1e8b6993b8b"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$atv.cfg",
+      "hash": "accc3a012b646051804c7f8f285d2ebb3514acf5"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$bumper_car.cfg",
+      "hash": "81b37d3e8a36e68e9b24cb630108161411a2981c"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$dirt_bike.cfg",
+      "hash": "a7679c5bf9b4acd353ca76d1c7cd3767f25ab224"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$dune_buggy.cfg",
+      "hash": "97d52e5e6b13326f27b65612276a9136c830de0c"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$golf_cart.cfg",
+      "hash": "a25e3a918384e41fcbffda7b2c0ed3d692bf5146"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$go_kart.cfg",
+      "hash": "3bc1dfb1d2893a236d5c1e9511d4e8dfeb56f62d"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$jet_ski.cfg",
+      "hash": "27ec339894f3d3bea09f672f7d691f43bb032b15"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$lawn_mower.cfg",
+      "hash": "f721255152f6dcd68a2c4c4018c08a646fd609ef"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$mini_bike.cfg",
+      "hash": "8615ae782b57ace2b62733a88baa0552a0be4768"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$mini_bus.cfg",
+      "hash": "ec8f2a4e35f8054d941bc41a9682cf3c5797ab6f"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$moped.cfg",
+      "hash": "c103b7c8cce1b4ab0fdad088cdc63416f5f27c86"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$off_roader.cfg",
+      "hash": "2c1b00fc0cd3f902d42b43e64e7ac6a2528649bc"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$shopping_cart.cfg",
+      "hash": "24ad7b5174db6cd2ca8df5f6be6ae08d2a4cc8bb"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$smart_car.cfg",
+      "hash": "241af1d33bac90fc9416ce546f3f20a532037d36"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$speed_boat.cfg",
+      "hash": "09c80ea246e36829d150ad6fd2ce614b1a37bdc3"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$sports_plane.cfg",
+      "hash": "6a44bd5ae06e3318c32a0e12a4f9d95590427b6c"
+    },
+    {
+      "path": "config/adpother/Emitters/vehicle$tractor.cfg",
+      "hash": "f2a9a9467d515b9fd6bd52740e30aecf33f97b28"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$benzene.cfg",
+      "hash": "fd6537e597989f64a0c0a938cdd965173443b69b"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$biodiesel.cfg",
+      "hash": "880ac9e4418e5a7d8d9f1a0f805f1b3971ed7f6e"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$bioethanol.cfg",
+      "hash": "fcfb1dc9e4482ca79587b1095d8780e4a2cc26dc"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$biofuel.cfg",
+      "hash": "22a8f5866d6269694a4777f8d5be7967cb41b7b0"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$biogas.cfg",
+      "hash": "7976a5b404a1092c2a7fbd7cc6560eea87c52379"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$biomass.cfg",
+      "hash": "1c56d5b79d29bcb4e42dc4e0d0f7408884dedb31"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$butane.cfg",
+      "hash": "e4a86036f487027a2da439761b02b6d6ad3c6a9f"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$butene.cfg",
+      "hash": "0e0f11101a7dcb2ad53ced551ad2551407807123"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$creosote.cfg",
+      "hash": "3ab768d4b7f4d5cb508337baf71f6690ed094510"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$crudeoil.cfg",
+      "hash": "50fe46b1366db1aa6dc275bf3e661fa527a12213"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$diesel.cfg",
+      "hash": "cd7e5af21b020cfc16393325d185af6b55d7abe1"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$ethane.cfg",
+      "hash": "26ee47a96f8d75bca03b4d2abdea4de16655ac50"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$ethanol.cfg",
+      "hash": "fc00faaaadf46baff76a9a404ae19fa390c2d0c4"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$ethylene.cfg",
+      "hash": "40e21379da11f528fb6d94551562d4736b158a7c"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$fishoil.cfg",
+      "hash": "a57af3818d507720df1a131e797f72f12daef299"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$fuelium.cfg",
+      "hash": "1e833833ca24069aad61be4213915af81378a97b"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$gas.cfg",
+      "hash": "6021571bc20f07db2645053269d2171af2b6321d"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$gasoline.cfg",
+      "hash": "ca08e1a11bfd0f371fe807edfba671d7450d6d91"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$kerosene.cfg",
+      "hash": "d7467bb21a477ed9cc90ad6840de517877467890"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$lava.cfg",
+      "hash": "4febac4aff213c063280dfddf986a03486c68901"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$lpg.cfg",
+      "hash": "d443ed15402e48a64638b5ca3d89fdfcc53211b1"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$methane.cfg",
+      "hash": "4ab6b182e97064a86ae7bdd94acfd0d369cd48f7"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$methanol.cfg",
+      "hash": "ee2d974ca90e19a959ccc25b164700412a66d576"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$naphtha.cfg",
+      "hash": "6803f72cf262b4ac647cbe9e89a6661b0dc96ed8"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$nitan.cfg",
+      "hash": "0f6a2dfb6eede2acfa0a27814cc633d89dffd7f5"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$octane.cfg",
+      "hash": "6a3ca8a72e09f64a7bae3179063de364031bfdf3"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$petrol.cfg",
+      "hash": "2a339c899abecc51480f93684842613725d8eb13"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$petrolium.cfg",
+      "hash": "9df0a0f1787d88df0e3f342b40522d983d2eb4df"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$phenol.cfg",
+      "hash": "08bf8fbf0005e4cd9b8a4dddddac7b673cedf78c"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$plantoil.cfg",
+      "hash": "ad97dfd58fe1541b11fb3d6ae13dd0b9fcca6353"
+    },
+    {
+      "path": "config/adpother/Fuels/fluid$propane.cfg",
+      "hash": "9e90b660e4f2ececd17d571b888a230ccc00e0c2"
+    },
+    {
+      "path": "config/adpother/Fuels/group$arrows.cfg",
+      "hash": "0dcfd5c8861b0685223c23822eda720cae47d49e"
+    },
+    {
+      "path": "config/adpother/Fuels/group$banners.cfg",
+      "hash": "86d98b9159458a10fa0bff4570fa2dba772b3bd7"
+    },
+    {
+      "path": "config/adpother/Fuels/group$beds.cfg",
+      "hash": "7ba0a9ae12b9f5effa4a3f8d7373006b5f26c3e9"
+    },
+    {
+      "path": "config/adpother/Fuels/group$bio_fuels.cfg",
+      "hash": "0d68dbe1b056d1585020156f1386f4a3776c0044"
+    },
+    {
+      "path": "config/adpother/Fuels/group$blaze_rods.cfg",
+      "hash": "ecf17e227d5437a9ed4abd0c8a923e6a862f9aa2"
+    },
+    {
+      "path": "config/adpother/Fuels/group$boats.cfg",
+      "hash": "1086b8dae957409586b5b6121f78db6cd9967b15"
+    },
+    {
+      "path": "config/adpother/Fuels/group$bookshelves.cfg",
+      "hash": "97e6b99a59218572439e0e290c87ebf2b78701e9"
+    },
+    {
+      "path": "config/adpother/Fuels/group$carpets.cfg",
+      "hash": "f18cc415cc45522f90f8d3efd26234d7fbb43520"
+    },
+    {
+      "path": "config/adpother/Fuels/group$carrots.cfg",
+      "hash": "ea07c8a637869b0ed40fe18b43e01fadff4d58b2"
+    },
+    {
+      "path": "config/adpother/Fuels/group$charcoal.cfg",
+      "hash": "193096e7db30d6917344e20aa793311a5db4ff60"
+    },
+    {
+      "path": "config/adpother/Fuels/group$charcoal_blocks.cfg",
+      "hash": "a1a329599cf2b0226cbf87be2ef64be1adbe612f"
+    },
+    {
+      "path": "config/adpother/Fuels/group$charcoal_dust.cfg",
+      "hash": "b25b8eba11ce90a6ed6abefce5c4441fb76ed766"
+    },
+    {
+      "path": "config/adpother/Fuels/group$coal_blocks.cfg",
+      "hash": "8c9c35ed042f48acda53bd2d72cd63a4bf578e34"
+    },
+    {
+      "path": "config/adpother/Fuels/group$coal_coke.cfg",
+      "hash": "c47020b359e31a8e156a3eda79fd082ea1989be2"
+    },
+    {
+      "path": "config/adpother/Fuels/group$coal_coke_blocks.cfg",
+      "hash": "6c5957485d9cfcf9e3714f4eb4b7442a76356bdb"
+    },
+    {
+      "path": "config/adpother/Fuels/group$feathers.cfg",
+      "hash": "dad300f035fb33bbfb3b0456179fcfa1aa068993"
+    },
+    {
+      "path": "config/adpother/Fuels/group$fishes.cfg",
+      "hash": "cb1f5d7da5077db303e9d96c4db49ec17cb6fa3b"
+    },
+    {
+      "path": "config/adpother/Fuels/group$gunpowder.cfg",
+      "hash": "b967d90ffd920cfa1b1e89ed98507e70bc1a9aa6"
+    },
+    {
+      "path": "config/adpother/Fuels/group$leaves.cfg",
+      "hash": "f6f61f162a65b5b44407219977b2136dfcaed109"
+    },
+    {
+      "path": "config/adpother/Fuels/group$lectern_books.cfg",
+      "hash": "8df121f7f3daf9493acbe69b92a0019ac98aa9c1"
+    },
+    {
+      "path": "config/adpother/Fuels/group$logs.cfg",
+      "hash": "9f2488096921fa7d811528b20b55c851ded81236"
+    },
+    {
+      "path": "config/adpother/Fuels/group$mushrooms.cfg",
+      "hash": "494b64def50326e4c4a8740e68467e98e149922e"
+    },
+    {
+      "path": "config/adpother/Fuels/group$nether_stars.cfg",
+      "hash": "84ed2a5c159b938f30629349f7790bd22b67ba16"
+    },
+    {
+      "path": "config/adpother/Fuels/group$planks.cfg",
+      "hash": "fe7cac6d1931fdfedc6e5bd968ec51b639a52f83"
+    },
+    {
+      "path": "config/adpother/Fuels/group$rails.cfg",
+      "hash": "979f759ebbeb6cd9b20c48e454d7ef77eb9e74ab"
+    },
+    {
+      "path": "config/adpother/Fuels/group$saplings.cfg",
+      "hash": "df471b0e21ee609eedff7c37c6c984e34a4fa3ab"
+    },
+    {
+      "path": "config/adpother/Fuels/group$seeds.cfg",
+      "hash": "329c4a96e5be0bf2e37150a02986c1c730d8437a"
+    },
+    {
+      "path": "config/adpother/Fuels/group$signs.cfg",
+      "hash": "572df7fa67a28c2f4d5cf0ffa1eca7f309630127"
+    },
+    {
+      "path": "config/adpother/Fuels/group$small_flowers.cfg",
+      "hash": "d716e380a64f678ec41579d3858117d6b8f7e160"
+    },
+    {
+      "path": "config/adpother/Fuels/group$sulfur_dust.cfg",
+      "hash": "014bb413a8e8d7ad58fb0f3aed3eea66e94e31df"
+    },
+    {
+      "path": "config/adpother/Fuels/group$tall_flowers.cfg",
+      "hash": "188d3002ecc07eacc3d803c207f52362a3553d0b"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wheat_crops.cfg",
+      "hash": "8f79553649f37c4f3064c84e298cefa120d305cd"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_buttons.cfg",
+      "hash": "4b0c9bfc96b596932845ef81eb7ded82b9b50c62"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_chests.cfg",
+      "hash": "472094232fdcaa29eba9f34c1db449508879891a"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_doors.cfg",
+      "hash": "7a1b9cdff595f2ede826447fea293eed15f73ffa"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_fences.cfg",
+      "hash": "ec883bee314aec2f5e69b730689fac3b9ba4ba18"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_fence_gates.cfg",
+      "hash": "8f6927b225f86870bcd5424f6ef81af1aefa0426"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_pressure_plates.cfg",
+      "hash": "a15ace22500f3c26a873b1712de5ccb1773caf27"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_rods.cfg",
+      "hash": "055f2d8799122e0b4312e4b2ceff1c4654c1a70e"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_slabs.cfg",
+      "hash": "446c2fe2749b53ac8c5f17d4ae93455548c60d30"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_stairs.cfg",
+      "hash": "6960091a6634034868a4ab52dbd7c22b03900b74"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wooden_trapdoors.cfg",
+      "hash": "74c22442d41a9240e412407d79038623f8009271"
+    },
+    {
+      "path": "config/adpother/Fuels/group$wool.cfg",
+      "hash": "4a7c8ae8b77434d4c16de54d4bd9a66a47784fc5"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$apple.cfg",
+      "hash": "3da630ccb65b44a1b417e58d1b33b3c259b2ef98"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$armor_stand.cfg",
+      "hash": "05b50e068b6b3671054ad8753fff2587f5101241"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$beef.cfg",
+      "hash": "3b506753cefa65170a0b1abcf12f918bf88fb045"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$blaze_powder.cfg",
+      "hash": "63fa24f60f33e4a479b180f1b84c4a6acd62b605"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$book.cfg",
+      "hash": "7e17cc2d21dc11f7e045ce2b61cad696dc1d4506"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$bow.cfg",
+      "hash": "cd4f26673f1c4a70525b1a713af6e883a22b2fcb"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$bowl.cfg",
+      "hash": "f38b115cbb72bf2869dfb5871a324affb0af66e6"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$cactus.cfg",
+      "hash": "5fa4853155d088936b940b82ff6d485d66a1dbed"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$carrot_on_a_stick.cfg",
+      "hash": "e4cec0c7c53b675b596f0ee662a61b79d53985d6"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$chicken.cfg",
+      "hash": "f6dde11bb80b74f23093fbad3c043010bcfbac8a"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$chorus_flower.cfg",
+      "hash": "674f2a0f87a91636d42de249b08f61c9cd4b8d63"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$chorus_plant.cfg",
+      "hash": "175568cec21434dcd4f521bdc253a8b31e014614"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$coal.cfg",
+      "hash": "34a5bc621ab8f91875dc7d782100549718d99d27"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$cobweb.cfg",
+      "hash": "3a9f0db1a59a53d0c52ac83db5029e391344cdf5"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$crafting_table.cfg",
+      "hash": "fc1bcb21ea1dee7df6a8a34d29788970a7bf7f70"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$crossbow.cfg",
+      "hash": "b209d257ff58b3717e737ffd810304166a6ccf68"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$daylight_detector.cfg",
+      "hash": "ad7dcd668e0d9017e8cb2ca9aeebaf611dbba7ad"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$deadbush.cfg",
+      "hash": "85f2444245da373c99c9658b9101864f50951291"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$dragon_breath.cfg",
+      "hash": "2205285507adf74ff1bf4e0ca69e66277fea727c"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$dried_kelp_block.cfg",
+      "hash": "1f50f2744fc0d863b3e7556f0ffda889a6d6b230"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$firework_rocket.cfg",
+      "hash": "2671124b90df419069091b43bff3ff63f01f6e23"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$firework_star.cfg",
+      "hash": "3301489cad129ff306a007a19c696f58e690d111"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$fire_charge.cfg",
+      "hash": "01f87b4542b42959eb4d8e2444df1a7f666ae880"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$fishing_rod.cfg",
+      "hash": "8bb0bf497bd7de9007e1a33cd79a21b591562ac6"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$ghast_tear.cfg",
+      "hash": "0efde421d29cd8595c0b04d8a45f635d17a21c0b"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$golden_apple.cfg",
+      "hash": "fc92494fe39abc8d4829603aea0a05e277bc4a42"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$grass.cfg",
+      "hash": "5e5c2c9e308cda016767b50607966854ebcc7695"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$hay_block.cfg",
+      "hash": "038cd8ee1ba89cab0f912a226f47338dab031b2b"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$item_frame.cfg",
+      "hash": "0d969a803cfc687abdc05e2911923984856e2d4f"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$jukebox.cfg",
+      "hash": "36babc6d0d95a1365477f4f72085b8f15712a988"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$ladder.cfg",
+      "hash": "43e09e6358a8e4c93e805ca8ff87cfee724c7246"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$lever.cfg",
+      "hash": "d70b55943219e6bfd531010b7701898dfce45b74"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$lily_pad.cfg",
+      "hash": "bfec24db69145cb5f4dddb78b4a80cb26570e1af"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$magma_cream.cfg",
+      "hash": "a66950bcf602e5feb9a36514867d112f1acea357"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$map.cfg",
+      "hash": "e3acfa627338164d477b584ba36788938b265b35"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$mutton.cfg",
+      "hash": "3b5030cc8d41a0329ec11b6d9e3de607d91acc04"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$note_block.cfg",
+      "hash": "91123f93a074991e83d8510cf1e142a54b786852"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$painting.cfg",
+      "hash": "5a995579a5bb1302120125fa7427d96bf143614a"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$paper.cfg",
+      "hash": "2461e82213f354fd2b2d62cf142b43a3ab9b5d08"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$piston.cfg",
+      "hash": "33f59fde1d5910d36c00823aeea490cca8334e54"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$poisonous_potato.cfg",
+      "hash": "27464cf4171d0a0611348b5a645a2fa9725b6b09"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$porkchop.cfg",
+      "hash": "26e7ce4aa74ee7e84f9cb59bfbdb40df235f688d"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$rabbit.cfg",
+      "hash": "6e3824739dd7394e8662fcb8ad569d849c50606b"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$redstone_torch.cfg",
+      "hash": "97585f52241e60a5e4cce48df280139582ce077a"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$rotten_flesh.cfg",
+      "hash": "2c131bbc89eb3bbb7c4a97f51198e24fea682aea"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$seagrass.cfg",
+      "hash": "045474ec917694d949c972f607d1285eb69ae930"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$shield.cfg",
+      "hash": "c781866c4d8b8f2748000f81509528e99ba2ae95"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$soul_torch.cfg",
+      "hash": "2ba8732396708640e1e709e7b939fa2fa8d042a2"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$spider_eye.cfg",
+      "hash": "690f9a22dfc951c60c38c78fa4f6152963e5664a"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$sticky_piston.cfg",
+      "hash": "93e578e3c06d8f9699c8cc91b66883d8e7a93ae8"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$sugar_cane.cfg",
+      "hash": "5bf9cd4af8b30a3d497b2dff9cc10c07544dab1e"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$tall_grass.cfg",
+      "hash": "2730f3ebb0b42ef520f30d7b9f5de85df89051ff"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$tnt.cfg",
+      "hash": "3c415d90ecab617e3735413b2cb37106c2883c1c"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$tnt_minecart.cfg",
+      "hash": "db063cb14b02e8598f9e46956c4ef5b6cd10a334"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$torch.cfg",
+      "hash": "4e3ae851f1ce34e86754a043ace5bb97e0a8f23d"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$tripwire_hook.cfg",
+      "hash": "6e1b29861b3c78d0622a0f8f63e5ab96f59182bc"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$vine.cfg",
+      "hash": "c7be738821e5b434c27d5ce9651d5077de804641"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$wooden_axe.cfg",
+      "hash": "f1906d0a390207ecd41bd34b9b7457f6eb6198ee"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$wooden_hoe.cfg",
+      "hash": "bb6aec98f50ec6589fc39af1ab9c439e78e89fc9"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$wooden_pickaxe.cfg",
+      "hash": "007aa7944242d5c6d243f296b63070103e9274be"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$wooden_shovel.cfg",
+      "hash": "d1c173c0344b4426b654bd196b397f2c286e057d"
+    },
+    {
+      "path": "config/adpother/Fuels/minecraft$wooden_sword.cfg",
+      "hash": "b608dba279a7b3e458fd503218e13b1369b4f8de"
+    },
+    {
+      "path": "config/adpother/Fuels/rftoolspower$blazing_rod.cfg",
+      "hash": "f27dce45fe108e23406beeae328429221718e260"
+    },
+    {
+      "path": "config/adpother/Impacts/environment.cfg",
+      "hash": "06b95102d658a27fdbe49420efe5b0aafe151078"
+    },
+    {
+      "path": "config/adpother/Impacts/fluids.cfg",
+      "hash": "6bc8130c6b1fbe0e126fc8dc411b4a150d18964f"
+    },
+    {
+      "path": "config/adpother/Impacts/hostile_mobs.cfg",
+      "hash": "3dedd049c87737b02e9664c678b249ab3c6a2e6b"
+    },
+    {
+      "path": "config/adpother/Impacts/livings.cfg",
+      "hash": "97d36cbb05ba8831002c93bd738d0a317c71cd5d"
+    },
+    {
+      "path": "config/adpother/Items/aerometer.cfg",
+      "hash": "b8a023eecf27b015974bd6a51bbba8e4e5d88d3c"
+    },
+    {
+      "path": "config/adpother/Items/respirator.cfg",
+      "hash": "e911e82efaf55da48aab9f8acc892180b4184b84"
+    },
+    {
+      "path": "config/adpother/Items/vacuum_bag.cfg",
+      "hash": "b9500ae025596e5d1cfd5956fb31db9e22d3c17c"
+    },
+    {
+      "path": "config/adpother/Items/vacuum_tube.cfg",
+      "hash": "2f7345bb67305b1e6eccd62abf49425d4372771e"
+    },
+    {
+      "path": "config/adpother/Pollutants/carbon.cfg",
+      "hash": "4f7d9e1a21334cd8dc4dc1fccbb2031432fd797b"
+    },
+    {
+      "path": "config/adpother/Pollutants/dust.cfg",
+      "hash": "f72f0523e117b47b14639bf06678cd954a901c70"
+    },
+    {
+      "path": "config/adpother/Pollutants/sulfur.cfg",
+      "hash": "0d28eff48b1f5c25383edb99b7223ead0b31a9b7"
+    },
+    {
+      "path": "config/adpother/Respirators/adpother$diamond_respirator.cfg",
+      "hash": "6342036b09a5b99fb4d38fc9caf65ad8f559dee6"
+    },
+    {
+      "path": "config/adpother/Respirators/adpother$gold_respirator.cfg",
+      "hash": "92790b8e8b09a782feb7799f2b40c70d0eca9d6a"
+    },
+    {
+      "path": "config/adpother/Respirators/adpother$iron_respirator.cfg",
+      "hash": "4eec5f8653b383262638b9169b55fd3fc94f7794"
+    },
+    {
+      "path": "config/adpother/Respirators/mekanism$hazmat_mask.cfg",
+      "hash": "d0de03a36ad7a46d86d12572d0ac071cfd5fa2a8"
+    },
+    {
+      "path": "config/adpother/Respirators/mekanism$mekasuit_helmet.cfg",
+      "hash": "083e77b471f101c03f8c424d3c0da53a455c6d9e"
+    },
+    {
+      "path": "config/adpother/Respirators/mekanism$scuba_mask.cfg",
+      "hash": "ad82f33aa448d61d58ec47d4c6005d92d0522375"
+    },
+    {
+      "path": "config/adpother/Sources/animal_burning.cfg",
+      "hash": "0065a9ffdf3c9cd1f5b2ea7b49cb51262c18ac12"
+    },
+    {
+      "path": "config/adpother/Sources/animal_dying.cfg",
+      "hash": "8f83448cb919eacfbedff75f1df20146e269e561"
+    },
+    {
+      "path": "config/adpother/Sources/animal_feeding.cfg",
+      "hash": "0a09c8c8fd6751693c9756bd67a4471fb07f1e87"
+    },
+    {
+      "path": "config/adpother/Sources/explosion.cfg",
+      "hash": "1ab4414394e963812c0f64abcef3ded0fa3c28b4"
+    },
+    {
+      "path": "config/adpother/Sources/hostile_mob_burning.cfg",
+      "hash": "a5d2fc08dd899622a3b6b043db7df587ae482f4b"
+    },
+    {
+      "path": "config/adpother/Sources/hostile_mob_dying.cfg",
+      "hash": "06dd0bb8f58ca085c44e3315a455906cb1a01a8b"
+    },
+    {
+      "path": "config/adpother/Sources/lava_touching_water.cfg",
+      "hash": "4b42714e3c61d60ae8badcad1175754ae2f7ec20"
+    },
+    {
+      "path": "config/adpother/Sources/player_burning.cfg",
+      "hash": "6776e973f186fc969b86e333fb33f712cf9ca55c"
+    },
+    {
+      "path": "config/adpother/Sources/player_dying.cfg",
+      "hash": "b7f7bb9ee489e95d6190c1e0207d00d95f15bf60"
+    },
+    {
+      "path": "config/adpother/Sources/player_eating.cfg",
+      "hash": "d5c5082bd497699f33a74dcfa63c68dec5990734"
+    },
+    {
+      "path": "config/adpother/Torches/aether$ambrosium_torch.cfg",
+      "hash": "0840fe08218b0e12fb677b127446bc4de7bfc92b"
+    },
+    {
+      "path": "config/adpother/Torches/aether$ambrosium_wall_torch.cfg",
+      "hash": "c8587cc8828a4e6f91417e3d20a2a212813409d3"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$acacia_torch.cfg",
+      "hash": "a46324cac0f9f7cc5db3c8c4cafee9665292724e"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$acacia_wall_torch.cfg",
+      "hash": "0248f8d9fecedd944294e1d753da89f285df57d2"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$birch_torch.cfg",
+      "hash": "93a2fe3b37921b329b6e5a4a783888703e648350"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$birch_wall_torch.cfg",
+      "hash": "11bcbc2cb82cc1417a5f95f5edc727fa0d16e702"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$crimson_torch.cfg",
+      "hash": "9850ad7223cdb1cf20c78afdbf935604c79cf71f"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$crimson_wall_torch.cfg",
+      "hash": "769ca9c9f16163604bc03bee13bc68db6b2554c3"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$dark_oak_torch.cfg",
+      "hash": "8b28892404720b06ead2faf7e8514cfaf370d06f"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$dark_oak_wall_torch.cfg",
+      "hash": "864ede38dd078fb661ee9bad86e00263327ca108"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$glow_torch.cfg",
+      "hash": "e2202ab65dcada2f02151d3273a530e8a75d6615"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$glow_wall_torch.cfg",
+      "hash": "3bda4a032293e7cb38c40731e4000ffdd3a1a9c4"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$iron_torch.cfg",
+      "hash": "4f0599cbb5704d657ef06f2a9b6493982bf26619"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$iron_wall_torch.cfg",
+      "hash": "55f74eb2859c5045e3a3d82e1e0476edaa7e6f78"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$jungle_torch.cfg",
+      "hash": "bb44c0a1a112ebb5f63bfde8aecd7707010dcb0b"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$jungle_wall_torch.cfg",
+      "hash": "17b407e750e9d2c27322367d3fd3e307bba762b3"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$spruce_torch.cfg",
+      "hash": "90fc5d88b6426d0b88a6d9f924c8ac50f5dcaf6b"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$spruce_wall_torch.cfg",
+      "hash": "41496714fc65608c7412db7bea3766025e3b1511"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$warped_torch.cfg",
+      "hash": "1da896c4ab20748028e0d3e22ad36d2e6629ae8a"
+    },
+    {
+      "path": "config/adpother/Torches/chipped$warped_wall_torch.cfg",
+      "hash": "3e181d35245afe66440170ba6ee3a3cf973290d0"
+    },
+    {
+      "path": "config/adpother/Torches/framedblocks$framed_soul_torch.cfg",
+      "hash": "227b278248821f82de93c4227101f1ba2e23116f"
+    },
+    {
+      "path": "config/adpother/Torches/framedblocks$framed_soul_wall_torch.cfg",
+      "hash": "25eb8823e63628f833d4ef704797c9b73f0184e5"
+    },
+    {
+      "path": "config/adpother/Torches/framedblocks$framed_torch.cfg",
+      "hash": "5cecb9274033f61687d07f75302e832b002a8eab"
+    },
+    {
+      "path": "config/adpother/Torches/framedblocks$framed_wall_torch.cfg",
+      "hash": "4afd6894196a4565af6663fc5ee5f67b5863f1c4"
+    },
+    {
+      "path": "config/adpother/Torches/magnumtorch$amethyst_magnum_torch.cfg",
+      "hash": "68dea3bb18f31b3edd3e9a01a9be7aa07a79f4c2"
+    },
+    {
+      "path": "config/adpother/Torches/magnumtorch$diamond_magnum_torch.cfg",
+      "hash": "259027a97ff07d712473387b754f2a1a27891715"
+    },
+    {
+      "path": "config/adpother/Torches/magnumtorch$emerald_magnum_torch.cfg",
+      "hash": "460df6200097837b8c643e1cb7cb04e0fb8cf21d"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$acacia_tiki_torch.cfg",
+      "hash": "f8191c265df21891fea3bced8e0b071df7216bc5"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$bamboo_tiki_torch.cfg",
+      "hash": "9f8e898244301dc30d8f5b9332990760f7522e4c"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$birch_tiki_torch.cfg",
+      "hash": "aee6b4abf0d39f2b44b005c678ca397036afd4d8"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$crimson_tiki_torch.cfg",
+      "hash": "619a21f38f7daba321c825addc438bf9b0eda883"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$dark_oak_tiki_torch.cfg",
+      "hash": "8e91061c1ad1981df15b6513454c1fae254334d2"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$framed_torch.cfg",
+      "hash": "4b7bea2ef57a8ef86752b72515ac1c32ffa2fccc"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$iron_framed_torch.cfg",
+      "hash": "ea90cb1a8e00d78089e74435e2490e7739a14573"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$jungle_tiki_torch.cfg",
+      "hash": "c47eac4bffbc9c8d4be6804d4d63a61e53a65e36"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$mangrove_tiki_torch.cfg",
+      "hash": "5a1c8b744a7bd5a044db864fe97d16ec04db73e6"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$oak_tiki_torch.cfg",
+      "hash": "84ab480dcbbe1631ef86894948ad1d3b8e214619"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$reinforced_torch.cfg",
+      "hash": "a702a0708743a3289bede1394f6ef1e7636a7a19"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$rustic_torch.cfg",
+      "hash": "a5e891b71d1f250b2cc02434cff4b55876dc392e"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_acacia_tiki_torch.cfg",
+      "hash": "c8dc7e61cba2a40f4276059573e2d49671e78f9a"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_bamboo_tiki_torch.cfg",
+      "hash": "8b5ceb40e26a14fcfb8ef9cdd4bcc473dcdce29c"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_birch_tiki_torch.cfg",
+      "hash": "40fa18558485dc3045920aff62c1c46c1063879b"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_crimson_tiki_torch.cfg",
+      "hash": "6bca2719a012ad527a8b1d78d55ae13b32f5d0d6"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_dark_oak_tiki_torch.cfg",
+      "hash": "5b9e4fe4e30e2348d8c8f003eefec58b53e7b57a"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_jungle_tiki_torch.cfg",
+      "hash": "e96aba4b1ab78d7afa6feb0602efce70d4fa30b2"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_mangrove_tiki_torch.cfg",
+      "hash": "d26feaaa7442f19fa342b5d3a021fc083c0b6fb8"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_oak_tiki_torch.cfg",
+      "hash": "de87010682f539ce58a7708d83cdbeb046ab7e1c"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_spruce_tiki_torch.cfg",
+      "hash": "0909ffb5d445eb72312a73ee035fa24024b998ae"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$soul_warped_tiki_torch.cfg",
+      "hash": "73689f1c7f6f8e32abd9a630c3fed21f5827dc93"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$spruce_tiki_torch.cfg",
+      "hash": "b18fa25acedffb812e0d3d7d89502c4bd6edfe66"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$upgraded_torch.cfg",
+      "hash": "8b5b5d8a2ef1e988a2492635960036f4081273fa"
+    },
+    {
+      "path": "config/adpother/Torches/mcwlights$warped_tiki_torch.cfg",
+      "hash": "805b8a655411029e8c76bf6ba350fae2ef51bcab"
+    },
+    {
+      "path": "config/adpother/Torches/minecraft$soul_torch.cfg",
+      "hash": "46f42906289891086c2d7c3a7af3071aecf75950"
+    },
+    {
+      "path": "config/adpother/Torches/minecraft$soul_wall_torch.cfg",
+      "hash": "a052beb7681f27dd5c1e9a61d734375ee53566b7"
+    },
+    {
+      "path": "config/adpother/Torches/minecraft$torch.cfg",
+      "hash": "4801ee36d8c828481f8924854e99e835b8c223ec"
+    },
+    {
+      "path": "config/adpother/Torches/minecraft$wall_torch.cfg",
+      "hash": "92f097a4749505d257dbfb832840886c0ffbccc9"
+    },
+    {
+      "path": "config/adpother/Torches/realistictorches$torch_lit.cfg",
+      "hash": "261b1cce6c7a560ca3ffea29417d05f0236b9f76"
+    },
+    {
+      "path": "config/adpother/Torches/realistictorches$torch_smoldering.cfg",
+      "hash": "b5975627621186b4dc9a1ca129f2fcf614333082"
+    },
+    {
+      "path": "config/adpother/Torches/realistictorches$wall_torch_lit.cfg",
+      "hash": "6c5e9cfa7bc55083ce98a416fdf6bf0b406da852"
+    },
+    {
+      "path": "config/adpother/Torches/realistictorches$wall_torch_smoldering.cfg",
+      "hash": "013757c6542ad276ac8e48b6d2ae06aef6152adf"
+    },
+    {
+      "path": "config/adpother/Torches/supplementaries$sconce.cfg",
+      "hash": "faa7b1cd107f747aadfc24263336380788565057"
+    },
+    {
+      "path": "config/adpother/Torches/supplementaries$sconce_lever.cfg",
+      "hash": "21762efea4a5865d0b4a7d35cd1bbd1dc7286d4e"
+    },
+    {
+      "path": "config/adpother/Torches/supplementaries$soul_sconce.cfg",
+      "hash": "1405f81d9c403d005733209ff1f3a8a8f376ce12"
+    },
+    {
+      "path": "config/adpother/Torches/supplementaries$soul_wall_sconce.cfg",
+      "hash": "c3d184ef41c4be1b1b052a0a59a6cccf0e0d0a5b"
+    },
+    {
+      "path": "config/adpother/Torches/supplementaries$wall_sconce.cfg",
+      "hash": "ccdb9611b5c2b268d4a432ad9aab1ad33f7796ec"
+    },
+    {
+      "path": "config/adpother/Torches/tfc$torch.cfg",
+      "hash": "e0a10ec63e4db890dd6f023d8bac36eb073cadf4"
+    },
+    {
+      "path": "config/adpother/Torches/tfc$wall_torch.cfg",
+      "hash": "89f1ff07944e6e7f91d09be5986984452527832e"
+    },
+    {
+      "path": "config/adpother-client.toml",
+      "hash": "a782720e8af88cca0bfc475dfb7d978283367fd4"
+    },
+    {
+      "path": "config/adpother-common.toml",
+      "hash": "d7f4b5d5927bfaf01dcf3379f035cd3c42873343"
+    },
+    {
+      "path": "config/ae2/client.json",
+      "hash": "05d76413c189736ff3a323b3763d00ccaeb68092"
+    },
+    {
+      "path": "config/ae2/common.json",
+      "hash": "e35a3e13992afb5403e10f1ec0bd5714baaf99f4"
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "01ddb88e420140c33e4cfc0c105edd6e40a5f2c7"
+    },
+    {
+      "path": "config/arseng-common.toml",
+      "hash": "74640fd87ef86fa83b564413ab039afc161db105"
+    },
+    {
+      "path": "config/ars_nouveau-client.toml",
+      "hash": "904c6062bd6008c5ee71e1471705d92486fe2326"
+    },
+    {
+      "path": "config/ars_nouveau-common.toml",
+      "hash": "1b07a9d12410301a15f1120377ad1b94463ce56a"
+    },
+    {
+      "path": "config/balm-common.toml",
+      "hash": "d658b683f7a01a8d892af452f2ef8c3d3dd04c57"
+    },
+    {
+      "path": "config/botania-client.toml",
+      "hash": "4e3898e5ecf347e74eac0ddda2062818bce801ab"
+    },
+    {
+      "path": "config/botania-common.toml",
+      "hash": "14ae910bd57d11cceb4597f413ed5923d3c9ffb4"
+    },
+    {
+      "path": "config/citadel-common.toml",
+      "hash": "f3aad9442cc4ae95760ceb68f75d5735e9247f6a"
+    },
+    {
+      "path": "config/coldsweat/client.toml",
+      "hash": "a3da88303d4cd0de157f305b25d9d2771192675e"
+    },
+    {
+      "path": "config/coldsweat/entity_settings.toml",
+      "hash": "09ff38613aec53d29fd8b7b567d6d417dac650be"
+    },
+    {
+      "path": "config/coldsweat/item_settings.toml",
+      "hash": "4913a6dcfbadd7bb0b762ce25117e75f78fed871"
+    },
+    {
+      "path": "config/coldsweat/main.toml",
+      "hash": "e0ab7a417d307c04386db6dc357a2ebc4bea2599"
+    },
+    {
+      "path": "config/coldsweat/world_settings.toml",
+      "hash": "99135bc623147dd498b4b8276e4480a4d2333580"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "c6f642af1276ec0d504145ad4b7225c6145a7e9e"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "41cda6916fe6ee82d14411d094f884862ef2b3de"
+    },
+    {
+      "path": "config/createaddition-common.toml",
+      "hash": "0d56e3d118eef998d420e0ee11d784442f3595a9"
+    },
+    {
+      "path": "config/createbigcannons-client.toml",
+      "hash": "8db73d7f639328db96b8d8ad25db2109568a6f56"
+    },
+    {
+      "path": "config/createdieselgenerators-client.toml",
+      "hash": "d15713aa9fdb36f5c98b281ebbc05292b40f62d0"
+    },
+    {
+      "path": "config/createoreexcavation-common.toml",
+      "hash": "34bbeb20bd0b3c2fff47b5d8a63d42ece37ee3d5"
+    },
+    {
+      "path": "config/createsifter-client.toml",
+      "hash": "7ac6bb605e10eee9a309d16d17ac148fee47bcab"
+    },
+    {
+      "path": "config/createsifter-common.toml",
+      "hash": "851fe9adf641be197163273c314d59f0b1558d33"
+    },
+    {
+      "path": "config/create_central_kitchen-common.toml",
+      "hash": "47fa463a46d4246bf260f9ac49cd4916e167b567"
+    },
+    {
+      "path": "config/create_new_age-client.toml",
+      "hash": "496d11b4d81138333a0dc9bc8cf12689e5626eea"
+    },
+    {
+      "path": "config/create_new_age-common.toml",
+      "hash": "3e98869f9de9718c610ca497cfb71e7684f9a875"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "ee5607552a851c19ef1d53c6e4bac5c307d10524"
+    },
+    {
+      "path": "config/de/mari_023/ae2wtlib.json5",
+      "hash": "42ba01b1fbd011152021fcdd33f1747a27dc3cbb"
+    },
+    {
+      "path": "config/diet-client.toml",
+      "hash": "fc5746447fd57e24fc748a53d0c97986e2226b6b"
+    },
+    {
+      "path": "config/diet-server.toml",
+      "hash": "f6767c38f97b35e9a7544af1cb36a9992760ab8f"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "7109adf50788f4bf5797dd3809ad0dc923c8f023"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "a0fbeadaf9f7876059852ca40e903d9ad4d0ac48"
+    },
+    {
+      "path": "config/fiahi-common.toml",
+      "hash": "8b6c2f252f47a48fce7f3b2bc969f72f75c3df0f"
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "hash": "2f2ab61806dd8d920b5154ba8d8094f2c0f6710d"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "480c691ae4a0b08d28a1a59b05544e8271038260"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "5dcc032ce1e3d9e4a9552880f8de2e2c71fcdb1e"
+    },
+    {
+      "path": "config/forgeendertech/cached.dat",
+      "hash": "d6a201171fbcd41315b95ceebae53bae95ceee28"
+    },
+    {
+      "path": "config/forgeendertech/Wind.cfg",
+      "hash": "36900bb1ca63e390a32e2d9d9cd6fe0a322c061f"
+    },
+    {
+      "path": "config/forgeendertech-common.toml",
+      "hash": "73f6592d1c6b8431f61515567126c3c1b3142cf0"
+    },
+    {
+      "path": "config/ftbxmodcompat.snbt",
+      "hash": "19266805216c9bc71b88d975ab0be2df95cd64b3"
+    },
+    {
+      "path": "config/functionalstorage/functionalstorage-client.toml",
+      "hash": "c468ad8baf6e965b6517ab65c854bed8b8729dd8"
+    },
+    {
+      "path": "config/functionalstorage/functionalstorage-common.toml",
+      "hash": "e7b3a87d946c9b75f0c682d0e3a4a1cdfa7be27b"
+    },
+    {
+      "path": "config/InventoryHUD/curios.json",
+      "hash": "0a2aa3adf85cebfea1810bab11c050518e9e9702"
+    },
+    {
+      "path": "config/inventoryhud-client.toml",
+      "hash": "d4820df90c5a42564b0a479a83b300fae679617d"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
+    },
+    {
+      "path": "config/inventoryprofilesnext/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "4687cf45914c45a4a67441d1f440d7d89d0f6281"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "9984b019823e8eaf19a40d0b7ee92590cb53b8e9"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "aa0b891c9587ac6203df01278d2e8bd085be93a1"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "1a87e8461dfe0fe242f2c8eecbbd3ccdaa12958f"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "4f2fc8d1f6eeb7eccc060cac247c04d8e4df88b2"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "d5d21df973db04a54da5c6b5ed0e97e8fbac65da"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "6f16fd8509fb0eed419b6e6d1663d2e7de0ffe0d"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "67ff1ce2ef09db0664d3e40d6f324ce1ac84dbdf"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "dd6106bd2ac4a3d2b02793ee58e46fb5786f758c"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "8f6c9da93bd4d8e09e3829f8ce9b217c15cb3947"
+    },
+    {
+      "path": "config/lootbeams-client.toml",
+      "hash": "0c04084123d3b67623fc2480045ef3b7d77cc0dc"
+    },
+    {
+      "path": "config/Mekanism/additions-client.toml",
+      "hash": "4076d4870c34b8763e7246855fa1eeb6d4beffb9"
+    },
+    {
+      "path": "config/Mekanism/client.toml",
+      "hash": "9755813f973b050413c1b673706e93ae4ea7ae55"
+    },
+    {
+      "path": "config/Mekanism/common.toml",
+      "hash": "a54f0be1038b2e4100e161f8bd925742f3912ef0"
+    },
+    {
+      "path": "config/Mekanism/tools-client.toml",
+      "hash": "d07943ba258b432b83a1033018f1415279270029"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "hash": "69ffdbf76a1bcfecc73dfed70bc364f6eb92f724"
+    },
+    {
+      "path": "config/sliceanddice-common.toml",
+      "hash": "f7f928905f54e531013470084ec5ad5e321eabac"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "hash": "300cb0348cbb41fb48bab6849802495881fc9b93"
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "hash": "f6f59485a1bf80c76da0a53d3be2bd9c4ee79e61"
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "hash": "2474562e023711e5e3a2c1ae652242edfe383499"
+    },
+    {
+      "path": "config/sophisticatedstorage-client.toml",
+      "hash": "79f3cb8b2bf215dfe6d27ef6e9b62f50107ccd6e"
+    },
+    {
+      "path": "config/titanium/titanium-tags.toml",
+      "hash": "3b2f5a06c0d404a19e77fce6f9095c549b0b8a1a"
+    },
+    {
+      "path": "config/titanium/titanium.toml",
+      "hash": "d87daa2590fc5fe1cf0814dd48adc50044ba7516"
+    },
+    {
+      "path": "config/waystones-common.toml",
+      "hash": "17b6d3f79de5d33f509c26fbe3614c56cfc292a6"
+    },
+    {
+      "path": "defaultconfigs/ftbchunks/client-config.snbt",
+      "hash": "3fd4a46d41732edd1bae7192b8265a52c1be85ef"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine/ftbultimine-client.snbt",
+      "hash": "a941713d1967797f43a95bc314d39fd2c7eabc86"
+    },
+    {
+      "path": "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt",
+      "hash": "e64ed572532dfad2c3a707964dafffb2b942f138"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "hash": "87f5ec8c26493050fc83543af8d33f2d28a98766"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "hash": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "kubejs/client_scripts/example.js",
+      "hash": "dfe0a9197b4b80a3f1235afa6f825857d9ead98a"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "hash": "40c61de752ff8f4d80c78a05d769dbecaf881ee5"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "hash": "950c0a12cd4cd45affc2c755502868f109d7262a"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "hash": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
+    },
+    {
+      "path": "kubejs/startup_scripts/example.js",
+      "hash": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec"
+    },
+    {
+      "path": "local/ftbchunks/client-config.snbt",
+      "hash": "d5fd704ed14a303e86e9e73497c2b5386432ec29"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/biome_map.txt",
+      "hash": "a9730aa32f313d82a4baca207b1a1bfb8e823fed"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/block_map.txt",
+      "hash": "6d67a4fa4380d1aa5faa24f6d16268241edab143"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/dimensions.txt",
+      "hash": "6c2382edff7aa652d6913e505aee050f81934669"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA5A-0EA7D.zip",
+      "hash": "fc1d35267744511ea831ca6083578bef6d0ca77a"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA5B-0EA7D.zip",
+      "hash": "9702f810669c0666eaff7427df1ad856da1c045a"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA5C-0EA5D.zip",
+      "hash": "21be5a71e2a6df20aabdb82ca3d3da6e1add7a92"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA5C-0EA5E.zip",
+      "hash": "da91490d35e9ac68736f19910fd184f96dd4c9ca"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA5D-0EA5D.zip",
+      "hash": "3aafe17317d0ec4c9e6a293d78273e2ad972aa46"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA5D-0EA5E.zip",
+      "hash": "e1b3e5a3c9b59886a1a2241d38ab153225f063d6"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA5F-0EA5F.zip",
+      "hash": "faf78c65be119b0c94efdf86cc3e475936a10d3f"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA5F-0EA60.zip",
+      "hash": "f61df92bb642045b2172f631a2a6675fee24255c"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA60-0EA5F.zip",
+      "hash": "d398b19e69602406f02f5523f5391a7a47cd6005"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/0EA60-0EA60.zip",
+      "hash": "cf5c266b57f33518391652613c9c34887690b49e"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/dimension.regions",
+      "hash": "8d377ea7f84285d48ec5494a2b2a881855c3c0b5"
+    },
+    {
+      "path": "local/ftbchunks/data/4f23d8e8-273c-4a38-a02d-82b8438997ee/minecraft_overworld/waypoints.json",
+      "hash": "6d05ac32d3e19ec442cbf018e43cd08e2e948a5d"
+    },
+    {
+      "path": "local/ftbultimine-client.snbt",
+      "hash": "441d356f6f68314f2b28c6ed3a3d3042e883308b"
+    },
+    {
+      "path": "local/kubejs/dev.properties",
+      "hash": "54a4c7f60c219f93e204bb2f82c09c7ac5015869"
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+    },
+    {
+      "path": "mods/arseng-1.1.5.jar",
+      "hash": "fb7f3455d585d8cbabeb3df52d4a85050b153862"
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.2.2.jar",
+      "hash": "c0bb062b52fa0a234d922e066d3e09c3df4297d9"
+    },
+    {
+      "path": "mods/botarium-forge-1.20.1-2.3.3.jar",
+      "hash": "8a4b7f0d6e569370a73402eeda57418f456968d8"
+    },
+    {
+      "path": "mods/citadel-2.5.4-1.20.1.jar",
+      "hash": "e7f209ae09cf818ecf98698482b82a1cbe0fe058"
+    },
+    {
+      "path": "mods/cloth-config-11.1.118-forge.jar",
+      "hash": "c46ca3fba95691873a765f4e79750c615f33e446"
+    },
+    {
+      "path": "mods/create-new-age-forge-1.20.1-1.1.2.jar",
+      "hash": "92fcbc49d41a4d1b2038b469154a4c36e3934e36"
+    },
+    {
+      "path": "mods/create-structures-0.1.1-1.20.1-FORGE.jar",
+      "hash": "6bd0a029f7ae4e400b55f8355f73e69dc31bd1a8"
+    },
+    {
+      "path": "mods/createaddition-1.20.1-1.2.3.jar",
+      "hash": "dcb0f28ce8d77d8ef2d2f1004c5520f66e5ca0ef"
+    },
+    {
+      "path": "mods/createutilities-0.2.0+1.20.1.jar",
+      "hash": "065a513423120c5de38f1d3b6ba7212b6453b31e"
+    },
+    {
+      "path": "mods/curios-forge-5.7.0+1.20.1.jar",
+      "hash": "05166ae241d7a91d5ee341027a376b7938135079"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.4.jar",
+      "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
+    },
+    {
+      "path": "mods/ForgeEndertech-1.20.1-11.1.0.1-build.0289.jar",
+      "hash": "8ec3507517cb67e8cb0f717c9326cc6d75575e44"
+    },
+    {
+      "path": "mods/ftb-chunks-forge-2001.2.5.jar",
+      "hash": "4ec7468317f6ab8da35bae60b5a5254453ab3d3b"
+    },
+    {
+      "path": "mods/ftb-essentials-forge-2001.2.2.jar",
+      "hash": "e9f668ea8fa12215b1db9d505af8feb617d66e5a"
+    },
+    {
+      "path": "mods/ftb-library-forge-2001.1.5.jar",
+      "hash": "95d6acc600216ca750055d8c494efc3d0d5cfb93"
+    },
+    {
+      "path": "mods/ftb-quests-forge-2001.3.3.jar",
+      "hash": "9118a31d456c5a0cc7d9c4f75c997e13804daa8e"
+    },
+    {
+      "path": "mods/ftb-ranks-forge-2001.1.3.jar",
+      "hash": "5caca1d7fce7154b79238804a7730e23ce767fce"
+    },
+    {
+      "path": "mods/ftb-xmod-compat-forge-2.1.0.jar",
+      "hash": "9c799c16928964c64effc032478d4a9d48e93e55"
+    },
+    {
+      "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar",
+      "hash": "74b567a2b23bf34cd37ee4c02059318f8cc702d7"
+    },
+    {
+      "path": "mods/kotlinforforge-4.10.0-all.jar",
+      "hash": "5981310618ebe818177bb2a703f8a7fb01bc8efc"
+    },
+    {
+      "path": "mods/kubejs-create-forge-2001.2.5-build.2.jar",
+      "hash": "b5548110822245de13c7adf1d10e00ecab9cd633"
+    },
+    {
+      "path": "mods/kubejs-create-forge-2001.2.5-build.2jar",
+      "hash": "b5548110822245de13c7adf1d10e00ecab9cd633"
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.4-build.138.jar",
+      "hash": "481da8260990328d1e61c55ebeee3b525aa4c583"
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.4-build.138jar",
+      "hash": "481da8260990328d1e61c55ebeee3b525aa4c583"
+    },
+    {
+      "path": "mods/libIPN-forge-1.20-4.0.1.jar",
+      "hash": "b3e9a4dc275ce8ee78321a1b9611ed93253bc6d1"
+    },
+    {
+      "path": "mods/pipez-forge-1.20.1-1.2.6.jar",
+      "hash": "89a597071f518781d1caff4ac3e669ce47316d07"
+    },
+    {
+      "path": "mods/sliceanddice-forge-3.2.0.jar",
+      "hash": "f964b626e90acb7145113c342eb915c5df834778"
+    },
+    {
+      "path": "mods/titanium-1.20.1-3.8.27.jar",
+      "hash": "0ef5a3a3059819e64e76fd80c47e8d4501f46943"
+    },
+    {
+      "path": "mods/[AE2无线终端] ae2wtlib-15.2.2-forge.jar",
+      "hash": "13ec42170a85bdccae3a22bc4ea3fcc9ac53eea0"
+    },
+    {
+      "path": "mods/[forge-1.20]AllMusic-2.6.12.jar",
+      "hash": "5f5dffc7cb1ffdd188e1e386a3d5f5d273083ec0"
+    },
+    {
+      "path": "mods/[FTB 团队] ftb-teams-forge-2001.1.4.jar",
+      "hash": "8b7628248ffd6e97bde2ffce0a630a4db4504b9b"
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.20.1-forge-15.3.0.4.jar",
+      "hash": "1a431d34991d51998f9971c4291bac2d58eaa154"
+    },
+    {
+      "path": "mods/[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.9.jar",
+      "hash": "394479e03e51c55c837d1e30289ebdb38e0dc838"
+    },
+    {
+      "path": "mods/[万用皮肤补丁] CustomSkinLoader_ForgeActive-14.19.1.jar",
+      "hash": "27845f67520078467ea0d3d8f223c93bcb62e222"
+    },
+    {
+      "path": "mods/[传送石碑／指路石] waystones-forge-1.20-14.1.3.jar",
+      "hash": "e71a99318c7a5267223f7f5ada7f6851023c0377"
+    },
+    {
+      "path": "mods/[冷汗] ColdSweat-2.3-b02b.jar",
+      "hash": "068d6411bad4c2e27d2c99bc62d6cba51b9b3637"
+    },
+    {
+      "path": "mods/[功能性存储] functionalstorage-1.20.1-1.2.8.jar",
+      "hash": "afda30f78d50c1e475c6772fd6bd5f2ed14ce74f"
+    },
+    {
+      "path": "mods/[均衡饮食] diet-forge-2.1.1+1.20.1.jar",
+      "hash": "c5f5d5980803259931dfa62236e888fb08ecf70a"
+    },
+    {
+      "path": "mods/[帕秋莉手册] Patchouli-1.20.1-84-FORGE.jar",
+      "hash": "b6b7267f3669c10c167d5d375d0274d40e3eb756"
+    },
+    {
+      "path": "mods/[应用能源2] appliedenergistics2-forge-15.0.21.jar",
+      "hash": "2a6b263e40e2b2a02a2801ebaa28924245ad486e"
+    },
+    {
+      "path": "mods/[应用能源：植物魔法附属] Applied-Botanics-forge-1.5.0.jar",
+      "hash": "26ef152312f3fa21dfee305a6787f96c065d6831"
+    },
+    {
+      "path": "mods/[应用能源：通用机械附属] Applied-Mekanistics-1.4.2.jar",
+      "hash": "1c6742e3ac2662844c720a42728a10bb9648d13b"
+    },
+    {
+      "path": "mods/[战利品光束] lootbeams-1.20.1-1.2.5.jar",
+      "hash": "c6bc21e6e8b1ad2d7fba376b5e6c06eb2386f7f1"
+    },
+    {
+      "path": "mods/[新生魔艺] ars_nouveau-1.20.1-4.9.0-all.jar",
+      "hash": "557db639fbf3e88184b9f7086d0d78606326a2da"
+    },
+    {
+      "path": "mods/[机械动力] create-1.20.1-0.5.1.f.jar",
+      "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
+    },
+    {
+      "path": "mods/[机械动力：中央厨房] create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.10.jar",
+      "hash": "bc7638b470a13091ff33e9b2d740393eca183cce"
+    },
+    {
+      "path": "mods/[机械动力：实用物件] create_misc_and_things_ 1.20.1_4.0A.jar",
+      "hash": "c5a6e8ec10bca9c349698afade327ecc3fbbdf17"
+    },
+    {
+      "path": "mods/[机械动力：工业长路] tfmg-0.8.0b-1.20.1.jar",
+      "hash": "5a9f706e27f2ca4a0f71710f22c4307bcf36d5d6"
+    },
+    {
+      "path": "mods/[机械动力：应用机械] createappliedkinetics-1.3.2-1.20.1.jar",
+      "hash": "3266a42f6b1acf73a35fe3c899eaa170a534d5a7"
+    },
+    {
+      "path": "mods/[机械动力：柴油动力] createdieselgenerators-1.20.1-1.2h.jar",
+      "hash": "738be989fe1818065ad0bbe5515b54690b0ee442"
+    },
+    {
+      "path": "mods/[机械动力：液体燃料] createliquidfuel-2.1.0-1.20.1.jar",
+      "hash": "02ce63e7a4352e94e6c20eb9896efde1481658d4"
+    },
+    {
+      "path": "mods/[机械动力：火炮] createbigcannons-forge-1.20.1-0.5.3.b.jar",
+      "hash": "8e89e0d04b7fa7e151fdb26b9e7945464685f745"
+    },
+    {
+      "path": "mods/[机械动力：物品附加] create-stuff-additions1.20.1_v2.0.4a.jar",
+      "hash": "d59e52e255f6c0c0c36be84ce33b1d54d9abeb96"
+    },
+    {
+      "path": "mods/[机械动力：矿石开掘] createoreexcavation-1.20-1.4.2.jar",
+      "hash": "1df98ddb420f83740be7543723ecf953828e0f6e"
+    },
+    {
+      "path": "mods/[机械动力：筛子] createsifter-1.20.1-1.8.1.e-22.jar",
+      "hash": "6355c9b3fbfa667d0498be9b425f8ed13d800a48"
+    },
+    {
+      "path": "mods/[机械动力：装食] garnished-1.6.3+1.20.1.jar",
+      "hash": "3fe7a21ad71236a9874e2597249fff109a84879f"
+    },
+    {
+      "path": "mods/[植物魔法] Botania-1.20.1-443-FORGE.jar",
+      "hash": "547f03922777254e2b8d68f6c166f20986b54f23"
+    },
+    {
+      "path": "mods/[物品栏HUD+] invhud.forge.1.20.1-3.4.18.jar",
+      "hash": "0ab697cc46a1fd67c7c6b02130c06258bb01ecfc"
+    },
+    {
+      "path": "mods/[物品过滤器] item-filters-forge-2001.1.0-build.59.jar",
+      "hash": "55a7f032c59489eca96069a7841601de2ff97590"
+    },
+    {
+      "path": "mods/[犀牛] rhino-forge-2001.2.2-build.6.jar",
+      "hash": "bf7196f66ccfc926f2943e6d16539c122b2f9a07"
+    },
+    {
+      "path": "mods/[玉 🔍] Jade-1.20.1-forge-11.8.0.jar",
+      "hash": "bc7eca506af9e754b6283af15ba5a35532a96683"
+    },
+    {
+      "path": "mods/[环境污染／领域的污染] AdPother-1.20.1-8.1.5.0-build.0338.jar",
+      "hash": "4f53d138eda76fd02b805f3b6f3dba06376d9b4e"
+    },
+    {
+      "path": "mods/[精妙存储] sophisticatedstorage-1.20.1-0.10.8.752.jar",
+      "hash": "c5df03f0bd0881a739290f6419e4e33bb55c9d0e"
+    },
+    {
+      "path": "mods/[精妙核心] sophisticatedcore-1.20.1-0.6.8.567.jar",
+      "hash": "cd413addc0abd81dbcac3d812ddb557d5df9e50b"
+    },
+    {
+      "path": "mods/[精妙背包] sophisticatedbackpacks-1.20.1-3.20.1.1012.jar",
+      "hash": "fc2198c83c049d698b123387d9d508c1baa27f71"
+    },
+    {
+      "path": "mods/[苹果皮] appleskin-forge-mc1.20.1-2.5.1.jar",
+      "hash": "81919356f84eab14258db98924b66c3c38e372b1"
+    },
+    {
+      "path": "mods/[连锁破坏] ftb-ultimine-forge-2001.1.4.jar",
+      "hash": "3c209be97832c90209c19315d799daa2db01da38"
+    },
+    {
+      "path": "mods/[通用机械] Mekanism-1.20.1-10.4.6.20.jar",
+      "hash": "728c25f3c3638f9336f15503f94d1073a48ddc42"
+    },
+    {
+      "path": "mods/[通用机械发电机] MekanismGenerators-1.20.1-10.4.6.20.jar",
+      "hash": "f84eb089018308df6260a87cadc808518343dcce"
+    },
+    {
+      "path": "mods/[通用机械工具] MekanismTools-1.20.1-10.4.6.20.jar",
+      "hash": "6ca885b2299f6c36593ebdfbe36e83a371a64dfc"
+    },
+    {
+      "path": "mods/[通用机械武器] MekanismWeapons-1.20.1-1.5.jar",
+      "hash": "62d1ba0617cdd16f6eba9c5af284599514e7a8b3"
+    },
+    {
+      "path": "mods/[通用机械附加] MekanismAdditions-1.20.1-10.4.6.20.jar",
+      "hash": "2a70ef4bba6aaccd56c352ebca648a7bca630c57"
+    },
+    {
+      "path": "mods/[高级烟囱] AdChimneys-1.20.1-10.1.4.0-build.0314.jar",
+      "hash": "17c3f0f94534b4d1a8b699e9de9889d849652d75"
+    },
+    {
+      "path": "patchouli_data.json",
+      "hash": "231380073231d2812497b2be8d12dd38fef3ead8"
+    },
+    {
+      "path": "PCL/Setup.ini",
+      "hash": "49e97228984ec327b11d90545b48d926fa09c458"
+    },
+    {
+      "path": "resourcepacks/Squareful+v3.15forMC1.20.1.zip",
+      "hash": "5d6d94a152629d077106fef2e0b08eec7063e13a"
+    },
+    {
+      "path": "rhino.local.properties",
+      "hash": "85c8548bb06def7a85454711e6d173067075f1ee"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "982c4e71a9704224123363dc369c8b71e7f06a3e"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.2.20"
+    }
+  ]
+}
